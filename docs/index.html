@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="MuST: Multi-granularity Sub-Text Queries for Few-Shot Action Recognition." />
+    <meta name="theme-color" content="#ffffff" />
+    <title>MuST</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&amp;family=Roboto:wght@400;500;700&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet" />
+    <style>
+      :root {
+        --accent: #47788a;
+        --accent-dark: #315d6c;
+        --ink: #222;
+        --muted: #5c6570;
+        --rule: #e7eaed;
+        --paper: #fff;
+        --code: #f5f6f7;
+        --max-width: 1140px;
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Roboto, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.65;
+        -webkit-font-smoothing: antialiased;
+      }
+      a { color: var(--accent); }
+      a:hover { color: var(--accent-dark); }
+      img { display: block; max-width: 100%; height: auto; }
+      .page { width: min(var(--max-width), calc(100% - 40px)); margin: 0 auto; }
+      .hero { padding: 34px 0 22px; text-align: center; }
+      h1, h2 { margin: 0; font-family: Montserrat, Arial, sans-serif; color: #17191b; }
+      h1 {
+        max-width: 1000px;
+        margin: 0 auto 18px;
+        font-size: clamp(1.75rem, 4vw, 2.65rem);
+        line-height: 1.22;
+        letter-spacing: -0.025em;
+      }
+      h2 {
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: clamp(1.45rem, 2.7vw, 1.9rem);
+        line-height: 1.3;
+      }
+      .authors { margin: 0 auto 7px; font-size: 1.05rem; }
+      .authors span, .authors a { margin: 0 8px; font-weight: 500; text-decoration: none; }
+      .affiliation { margin: 0; color: var(--muted); }
+      .venue { margin: 10px 0 0; font-family: Montserrat, Arial, sans-serif; }
+      .links { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 18px; }
+      .paper-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        padding: 8px 15px;
+        border: 1px solid #d4d9dd;
+        border-radius: 5px;
+        background: #fff;
+        color: #2c3439;
+        font-weight: 500;
+        line-height: 1.2;
+        text-decoration: none;
+        transition: border-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+      }
+      .paper-link:hover { border-color: var(--accent); color: var(--accent-dark); transform: translateY(-1px); }
+      .paper-link svg { width: 16px; height: 16px; fill: currentColor; }
+      section { padding: 28px 0; }
+      .lead-figure { padding-top: 12px; }
+      figure { margin: 0 auto; text-align: center; }
+      figure img { width: 100%; margin: 0 auto; object-fit: contain; }
+      .overview img { max-width: 880px; }
+      .pipeline img { max-width: 1060px; }
+      .results img { max-width: 940px; }
+      figcaption {
+        max-width: 940px;
+        margin: 12px auto 0;
+        color: var(--muted);
+        font-size: 0.92rem;
+        line-height: 1.5;
+      }
+      .prose {
+        max-width: 980px;
+        margin: 0 auto;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 1.12rem;
+        line-height: 1.62;
+        text-align: justify;
+      }
+      .prose p { margin: 0; }
+      .prose p + p { margin-top: 14px; }
+      .table-block { max-width: 1040px; margin: 0 auto 34px; }
+      .table-title {
+        margin: 0 0 10px;
+        font-family: Montserrat, Arial, sans-serif;
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+      }
+      .table-scroll { overflow-x: auto; border: 1px solid var(--rule); }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9rem;
+        font-variant-numeric: tabular-nums;
+      }
+      th, td {
+        padding: 10px 12px;
+        border-bottom: 1px solid var(--rule);
+        text-align: center;
+        white-space: nowrap;
+      }
+      thead th {
+        background: #f5f6f7;
+        font-family: Montserrat, Arial, sans-serif;
+        font-size: 0.78rem;
+        font-weight: 600;
+      }
+      tbody th { font-family: "Roboto Mono", Consolas, monospace; font-weight: 500; }
+      th:first-child, td:first-child, td:nth-child(2) { text-align: left; }
+      tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
+      tbody tr.rule-above th, tbody tr.rule-above td { border-top: 1px solid #cfd5da; }
+      tbody tr.best th, tbody tr.best td { font-weight: 700; color: #17191b; }
+      .table-note {
+        margin: 9px 0 0;
+        color: var(--muted);
+        font-size: 0.84rem;
+        line-height: 1.5;
+        text-align: center;
+      }
+      .findings {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 22px;
+        max-width: 1000px;
+        margin: 24px auto 0;
+      }
+      .finding { padding-top: 14px; border-top: 2px solid var(--accent); }
+      .finding strong {
+        display: block;
+        margin-bottom: 5px;
+        font-family: Montserrat, Arial, sans-serif;
+        font-size: 1.05rem;
+      }
+      .finding p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.55; }
+      .citation { max-width: 900px; margin: 0 auto; }
+      pre {
+        margin: 0;
+        padding: 18px 20px;
+        overflow-x: auto;
+        border: 1px solid var(--rule);
+        border-radius: 4px;
+        background: var(--code);
+        font-family: "Roboto Mono", Consolas, monospace;
+        font-size: 0.84rem;
+        line-height: 1.55;
+        text-align: left;
+      }
+      code { font-family: "Roboto Mono", Consolas, monospace; }
+      .contact { padding-bottom: 42px; text-align: center; }
+      .contact p { margin: 0; }
+      footer {
+        padding: 22px 0 28px;
+        border-top: 1px solid var(--rule);
+        color: #777;
+        font-size: 0.85rem;
+        text-align: center;
+      }
+      @media (max-width: 760px) {
+        .page { width: min(100% - 28px, var(--max-width)); }
+        .hero { padding-top: 25px; }
+        .authors span, .authors a { display: inline-block; margin: 2px 5px; }
+        section { padding: 23px 0; }
+        .prose { font-size: 1.05rem; text-align: left; }
+        .table-block { margin-bottom: 27px; }
+        table { font-size: 0.82rem; }
+        th, td { padding: 8px 10px; }
+        .findings { grid-template-columns: 1fr; gap: 15px; }
+        pre { padding: 14px; font-size: 0.75rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <h1>MuST: Multi-granularity Sub-Text Queries for Few-Shot Action Recognition</h1>
+        <p class="authors">
+          <span>Trong Tran</span>
+          <span>Thanh Tran</span>
+          <a href="mailto:cuongpd@ptit.edu.vn">Cuong Pham Duc<sup>*</sup></a>
+        </p>
+        <p class="affiliation">Faculty of Artificial Intelligence, Posts and Telecommunications Institute of Technology, Hanoi</p>
+        <p class="venue"><strong>Preprint 2026</strong></p>
+        <nav class="links" aria-label="Project resources">
+          <a class="paper-link" href="paper/MuST.pdf">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm1 2.5L17.5 7H15zM18 20H6V4h7v5h5zM8 12h8v2H8zm0 4h8v2H8z" /></svg>
+            Paper
+          </a>
+          <a class="paper-link" href="https://github.com/trantrongnb/MuST" rel="noopener noreferrer">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .7a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.3c-3.3.7-4-1.4-4-1.4-.5-1.4-1.3-1.7-1.3-1.7-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.4 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.5.1-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .7" /></svg>
+            Code
+          </a>
+        </nav>
+      </header>
+
+      <section class="lead-figure" aria-labelledby="overview-caption">
+        <figure class="overview">
+          <img src="images/soict_subtext.jpg" alt="Atomic sub-texts form an unordered set, while the sub-text pyramid stacks every contiguous span across four levels: four single phases, three transitions, two phase groups, and one whole-action query." width="2560" height="2027" />
+          <figcaption id="overview-caption"><strong>Figure 1.</strong> Construction of the text queries for a class. Given <em>N</em> ordered atomic phases, we concatenate every contiguous span into one sentence, giving <em>M</em> = <em>N</em>(<em>N</em>&nbsp;+&nbsp;1)/2 prompts at multiple temporal granularities. The span indices also provide the centre and width used by the span-aligned attention prior.</figcaption>
+        </figure>
+      </section>
+
+      <section aria-labelledby="abstract-title">
+        <h2 id="abstract-title">Abstract</h2>
+        <div class="prose">
+          <p>Few-shot action recognition with vision–language models typically represents an action class with a single text prompt, which captures class-level semantics but provides limited information about temporal progression. Recent work decomposes a class into atomic phase descriptions, but when these phases are treated as an independent set, the representation remains largely insensitive to their temporal order. We present <strong>MuST</strong>, a <strong>multi-granularity sub-text pyramid</strong> for few-shot action recognition. A language model decomposes each class name offline into <em>N</em> consecutive atomic phases, and MuST constructs all contiguous phase spans, yielding <em>M</em> = <em>N</em>(<em>N</em>&nbsp;+&nbsp;1)/2 prompts that describe the action from individual phases to longer temporal transitions. The span structure further induces a coarse temporal geometry over the clip, which we use to build a <strong>span-aligned attention prior</strong> that softly biases each prompt's cross-attention towards the frames it is likely to describe. On HMDB51 and Kinetics-100 under the 5-way protocol, MuST improves over the atomic sub-text baseline by 3.8 and 1.9 points at 1-shot, respectively. A control that permutes span centres while keeping span widths fixed supports that the gain comes from temporal alignment rather than generic attention regularisation.</p>
+        </div>
+      </section>
+
+      <section aria-labelledby="method-title">
+        <h2 id="method-title">Method</h2>
+        <figure class="pipeline">
+          <img src="images/soict_pp.jpg" alt="MuST pipeline: a class name is decomposed by an LLM into a sub-text pyramid, encoded once by the frozen CLIP text encoder into a buffer; frames pass through the CLIP visual encoder with LoRA and a motion Transformer; a span-aligned cross-attention block combines the two, followed by prototype matching and cross-entropy." width="2560" height="1158" loading="lazy" />
+          <figcaption><strong>Figure 2.</strong> Overview of MuST. The text branch is encoded once and stored in the class-specific buffer <em>Q<sub>c</sub></em>. The visual branch processes <em>T</em> sampled frames using the visual encoder and motion Transformer. A cross-attention block then combines the text queries with the frame features, with the span-aligned prior added to the attention logits.</figcaption>
+        </figure>
+        <div class="prose" style="margin-top: 26px;">
+          <p><strong>Multi-granularity sub-text pyramid.</strong> Treating the <em>N</em> phrases as an unordered set would discard their temporal order. We instead retain every contiguous span (<em>i</em>,&nbsp;<em>j</em>) and render it as one sentence by joining its phrases with the connective <em>Then</em>. Because the text encoder reads an ordered token sequence, <em>“draw bow. Then release arrow.”</em> and <em>“release arrow. Then draw bow.”</em> produce different embeddings, so phase order enters the class representation without a temporal text module. The construction is string concatenation in front of a frozen encoder and adds no trainable parameters.</p>
+          <p><strong>Span-aligned attention prior.</strong> The same span structure gives each prompt a coarse temporal extent: phases <em>i</em> through <em>j</em> occupy the interval [(<em>i</em>−1)/<em>N</em>, <em>j</em>/<em>N</em>] of the normalised timeline, which supplies both a centre and a width. We turn this into an additive bias on the cross-attention logits that is zero inside the interval and grows quadratically outside it, controlled by <em>N</em>&nbsp;+&nbsp;1 learned scalars. The prior is a soft penalty rather than a hard mask, and as its gates approach zero the block reduces to ordinary cross-attention. It is definable only after the pyramid exists: a global prompt has no span, and atomic prompts share a single fixed width.</p>
+        </div>
+      </section>
+
+      <section aria-labelledby="experiments-title">
+        <h2 id="experiments-title">Experiments</h2>
+
+        <div class="table-block">
+          <p class="table-title">Table 1. Comparison under the 5-way protocol</p>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col" rowspan="2">Method</th>
+                  <th scope="col" rowspan="2">Backbone</th>
+                  <th scope="col" colspan="2">HMDB51</th>
+                  <th scope="col" colspan="2">Kinetics-100</th>
+                </tr>
+                <tr>
+                  <th scope="col">1-shot</th>
+                  <th scope="col">5-shot</th>
+                  <th scope="col">1-shot</th>
+                  <th scope="col">5-shot</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">HyRSM</th><td>ResNet-50</td><td>60.3</td><td>76.0</td><td>73.7</td><td>86.1</td></tr>
+                <tr><th scope="row">MoLo</th><td>ResNet-50</td><td>60.8</td><td>77.4</td><td>74.0</td><td>85.6</td></tr>
+                <tr><th scope="row">TEAM</th><td>ViT-B</td><td>70.9</td><td>85.5</td><td>83.3</td><td>92.9</td></tr>
+                <tr class="rule-above"><th scope="row">CLIP-FSAR</th><td>CLIP ViT-B/16</td><td>75.8</td><td>87.7</td><td>89.7</td><td>95.0</td></tr>
+                <tr class="best"><th scope="row">MuST (ours)</th><td>CLIP ViT-B/16</td><td>77.7</td><td>89.0</td><td>91.3</td><td>97.5</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="table-note">Results for competing methods are taken from their original papers using the same dataset splits. CLIP-FSAR is the closest comparison because it uses the same CLIP ViT-B/16 backbone.</p>
+        </div>
+
+        <div class="table-block">
+          <p class="table-title">Table 2. Ablation of the sub-text pyramid and span-aligned temporal prior (5-way 1-shot)</p>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Granularity</th>
+                  <th scope="col">M</th>
+                  <th scope="col">Span prior</th>
+                  <th scope="col">HMDB51</th>
+                  <th scope="col">Kinetics-100</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">atomic</th><td>4</td><td>off</td><td>73.9 ± 0.36</td><td>89.4 ± 0.19</td></tr>
+                <tr><th scope="row">atomic</th><td>4</td><td>box</td><td>74.4 ± 0.41</td><td>89.6 ± 0.21</td></tr>
+                <tr><th scope="row">pyramid</th><td>10</td><td>off</td><td>75.8 ± 0.43</td><td>90.4 ± 0.26</td></tr>
+                <tr class="best"><th scope="row">pyramid</th><td>10</td><td>box</td><td>77.7 ± 0.34</td><td>91.3 ± 0.16</td></tr>
+                <tr class="rule-above"><th scope="row">pyramid</th><td>10</td><td>random</td><td>76.1 ± 0.47</td><td>90.5 ± 0.27</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="table-note">The <code>random</code> control retains the same span widths and prior strength as <code>box</code>, but randomly permutes the span centres within each level. The aligned prior gains 1.9/0.9 points on the pyramid against only 0.5/0.2 on atomic sub-texts, so the second component depends on the first.</p>
+        </div>
+
+        <div class="table-block">
+          <p class="table-title">Table 3. Effect of the temporal-context module (5-way 1-shot)</p>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Configuration</th>
+                  <th scope="col">Temporal context</th>
+                  <th scope="col">HMDB51</th>
+                  <th scope="col">Kinetics-100</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="best"><th scope="row">pyramid+box</th><td>transformer</td><td>77.7 ± 0.34</td><td>91.3 ± 0.16</td></tr>
+                <tr><th scope="row">pyramid+box</th><td>conv</td><td>77.0 ± 0.37</td><td>90.8 ± 0.21</td></tr>
+                <tr><th scope="row">pyramid+box</th><td>off</td><td>76.4 ± 0.41</td><td>90.2 ± 0.28</td></tr>
+                <tr class="rule-above"><th scope="row">atomic+off</th><td>transformer</td><td>73.9 ± 0.45</td><td>89.4 ± 0.17</td></tr>
+                <tr><th scope="row">atomic+off</th><td>off</td><td>73.2 ± 0.36</td><td>88.9 ± 0.25</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="table-note">With the temporal context disabled entirely, <code>pyramid+box</code> still exceeds <code>atomic+off</code> by 3.2 points on HMDB51 and 1.3 on Kinetics-100, so the gains do not come from the motion Transformer.</p>
+        </div>
+
+        <div class="table-block">
+          <p class="table-title">Table 4. Granularity sweep on HMDB51 (5-way 1-shot, temporal prior disabled)</p>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Granularity</th>
+                  <th scope="col">M</th>
+                  <th scope="col">Span lengths retained</th>
+                  <th scope="col">Accuracy</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">global</th><td>1</td><td>—</td><td>72.0 ± 0.40</td></tr>
+                <tr><th scope="row">full</th><td>1</td><td>|ω| = 4</td><td>73.1 ± 0.37</td></tr>
+                <tr><th scope="row">atomic</th><td>4</td><td>|ω| = 1</td><td>73.9 ± 0.50</td></tr>
+                <tr><th scope="row">atomic_full</th><td>5</td><td>|ω| ∈ {1, 4}</td><td>74.7 ± 0.46</td></tr>
+                <tr><th scope="row">pairs</th><td>7</td><td>|ω| ∈ {1, 2}</td><td>75.3 ± 0.55</td></tr>
+                <tr class="best"><th scope="row">pyramid</th><td>10</td><td>all</td><td>75.8 ± 0.43</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="table-note"><code>global</code> uses the plain class prompt, whereas <code>full</code> concatenates all <em>N</em> phases into one sentence. One long sentence yields one representation for the entire action, while the pyramid represents and matches each span separately.</p>
+        </div>
+
+        <figure class="results">
+          <img src="images/fig3_catalogue.png" alt="Grouped bar chart of 5-way 1-shot accuracy on HMDB51 with the prior off and on, across three text generators, an unordered catalogue, and N = 3, 4, 5." width="1921" height="866" loading="lazy" />
+          <figcaption><strong>Figure 3.</strong> Sensitivity to the sub-text catalogue on HMDB51 under the 5-way 1-shot setting with <code>pyramid</code> granularity. Each pair of bars reports accuracy with the prior disabled and enabled; Δ denotes the resulting gain. The three blocks compare text generators, temporal ordering, and the number of atomic phases <em>N</em>. The axis begins at 74.5%.</figcaption>
+        </figure>
+
+        <div class="findings" aria-label="Key findings">
+          <article class="finding">
+            <strong>Order is free supervision</strong>
+            <p>The phases are already generated in sequence. Concatenating contiguous spans preserves that order in the class representation at no parameter cost.</p>
+          </article>
+          <article class="finding">
+            <strong>The prior needs the pyramid</strong>
+            <p>A centre and a width per query exist only once spans are nested. The aligned prior is worth 1.9 points on the pyramid but 0.5 on atomic sub-texts.</p>
+          </article>
+          <article class="finding">
+            <strong>Alignment, not regularisation</strong>
+            <p>Permuting span centres while keeping their widths falls 1.6 points below the aligned prior, so what matters is where the prior points.</p>
+          </article>
+        </div>
+      </section>
+
+      <section aria-labelledby="citation-title">
+        <h2 id="citation-title">Citation</h2>
+        <div class="citation">
+          <pre><code>@misc{tran2026must,
+  title  = {MuST: Multi-granularity Sub-Text Queries for
+            Few-Shot Action Recognition},
+  author = {Tran, Trong and Tran, Thanh and Pham Duc, Cuong},
+  year   = {2026},
+  note   = {Preprint. Faculty of Artificial Intelligence, PTIT, Hanoi},
+  url    = {https://github.com/trantrongnb/MuST}
+}</code></pre>
+        </div>
+      </section>
+
+      <section class="contact" aria-labelledby="contact-title">
+        <h2 id="contact-title">Contact</h2>
+        <p>For questions, please contact <a href="mailto:cuongpd@ptit.edu.vn"><strong>cuongpd@ptit.edu.vn</strong></a>.</p>
+      </section>
+
+      <footer>MuST · Faculty of Artificial Intelligence, PTIT · 2026</footer>
+    </main>
+  </body>
+</html>

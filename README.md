@@ -1,5 +1,7 @@
 # MuST — Multi-granularity Sub-Text Queries for Few-Shot Action Recognition
 
+**[Project page](https://trantrongnb.github.io/MuST/)**
+
 A deliberately small CLIP-based few-shot action recognition model. The sub-text
 catalogs and the episodic splits are in this repository; only the CLIP ViT-B/16
 weights and the video frames are fetched separately.
