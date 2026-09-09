@@ -1,0 +1,608 @@
+{
+  "ApplyEyeMakeup": [
+    "picking up brush",
+    "dipping brush",
+    "stroking eyelid",
+    "blinking eyes"
+  ],
+  "ApplyLipstick": [
+    "open lipstick tube",
+    "twist up bullet",
+    "apply to lips",
+    "press lips together"
+  ],
+  "Archery": [
+    "nock arrow",
+    "draw bow",
+    "aim bow",
+    "release arrow"
+  ],
+  "BabyCrawling": [
+    "baby moving limbs",
+    "crawling forward",
+    "hands and knees",
+    "torso moving"
+  ],
+  "BalanceBeam": [
+    "mount beam",
+    "perform leap",
+    "execute backflip",
+    "dismount beam"
+  ],
+  "BandMarching": [
+    "marching in step",
+    "playing instruments",
+    "moving arms",
+    "stepping forward"
+  ],
+  "BaseballPitch": [
+    "wind up",
+    "lift leg",
+    "throw ball",
+    "follow through"
+  ],
+  "Basketball": [
+    "dribble ball",
+    "pass ball",
+    "shoot ball",
+    "rebound ball"
+  ],
+  "BasketballDunk": [
+    "run toward hoop",
+    "jump high",
+    "slam ball",
+    "land down"
+  ],
+  "BenchPress": [
+    "grip the bar",
+    "lower the bar",
+    "press the bar",
+    "lock elbows"
+  ],
+  "Biking": [
+    "mounting the bicycle",
+    "pedaling",
+    "steering",
+    "braking"
+  ],
+  "Billiards": [
+    "aim cue stick",
+    "strike cue ball",
+    "watch ball path",
+    "pocket target ball"
+  ],
+  "BlowDryHair": [
+    "pick up dryer",
+    "direct airflow",
+    "move dryer",
+    "set down dryer"
+  ],
+  "BlowingCandles": [
+    "leaning forward",
+    "inhaling deeply",
+    "pursing lips",
+    "exhaling air"
+  ],
+  "BodyWeightSquats": [
+    "lowering hips",
+    "bending knees",
+    "standing up",
+    "extending legs"
+  ],
+  "Bowling": [
+    "arm swing back",
+    "arm swing forward",
+    "release ball",
+    "follow through"
+  ],
+  "BoxingPunchingBag": [
+    "raising fists",
+    "throwing punches",
+    "striking bag",
+    "retracting arms"
+  ],
+  "BoxingSpeedBag": [
+    "punch bag",
+    "retract fists",
+    "shift weight",
+    "repeat rhythm"
+  ],
+  "BreastStroke": [
+    "glide forward",
+    "pull arms outward",
+    "bend knees",
+    "kick legs together"
+  ],
+  "BrushingTeeth": [
+    "pick up toothbrush",
+    "apply toothpaste",
+    "brush teeth",
+    "rinse mouth"
+  ],
+  "CleanAndJerk": [
+    "grip the bar",
+    "pull to chest",
+    "drive overhead",
+    "lock out arms"
+  ],
+  "CliffDiving": [
+    "running to edge",
+    "jumping off",
+    "tucking body",
+    "entering water"
+  ],
+  "CricketBowling": [
+    "run-up",
+    "bowling arm swing",
+    "release ball",
+    "follow through"
+  ],
+  "CricketShot": [
+    "wind up bat",
+    "swing bat",
+    "follow through",
+    "drop bat"
+  ],
+  "CuttingInKitchen": [
+    "holding knife",
+    "pressing blade down",
+    "moving knife back",
+    "lifting knife up"
+  ],
+  "Diving": [
+    "running toward edge",
+    "pushing off",
+    "tucking body",
+    "entering water"
+  ],
+  "Drumming": [
+    "striking drum surface",
+    "alternating hand hits",
+    "wrist rotation",
+    "maintaining rhythm"
+  ],
+  "Fencing": [
+    "en garde stance",
+    "lunge forward",
+    "parry blade",
+    "riposte thrust"
+  ],
+  "FieldHockeyPenalty": [
+    "approaching the ball",
+    "swinging stick back",
+    "striking the ball",
+    "following through"
+  ],
+  "FloorGymnastics": [
+    "run",
+    "jump",
+    "flip",
+    "land"
+  ],
+  "FrisbeeCatch": [
+    "reach out",
+    "grab disc",
+    "pull in",
+    "secure catch"
+  ],
+  "FrontCrawl": [
+    "arm pulling water",
+    "leg kicking flutter",
+    "head turning side",
+    "body rolling forward"
+  ],
+  "GolfSwing": [
+    "backswing",
+    "downswing",
+    "impact",
+    "follow-through"
+  ],
+  "Haircut": [
+    "picking up scissors",
+    "grasping hair strands",
+    "positioning blades",
+    "snapping scissors closed"
+  ],
+  "Hammering": [
+    "raise hammer",
+    "swing down",
+    "strike surface",
+    "lift hammer"
+  ],
+  "HammerThrow": [
+    "spin body",
+    "release hammer",
+    "follow through",
+    "step pivot"
+  ],
+  "HandstandPushups": [
+    "kick legs up",
+    "balance on hands",
+    "lower body down",
+    "push body up"
+  ],
+  "HandstandWalking": [
+    "walk on hands",
+    "shift weight",
+    "move hands",
+    "balance body"
+  ],
+  "HeadMassage": [
+    "placing hands on head",
+    "moving fingers in circles",
+    "applying pressure with fingertips",
+    "stroking scalp downward"
+  ],
+  "HighJump": [
+    "run-up approach",
+    "takeoff leap",
+    "back arch",
+    "landing fall"
+  ],
+  "HorseRace": [
+    "starting",
+    "galloping",
+    "jockeying",
+    "finishing"
+  ],
+  "HorseRiding": [
+    "mounting horse",
+    "holding reins",
+    "galloping",
+    "dismounting"
+  ],
+  "HulaHoop": [
+    "placing hoop around waist",
+    "spinning hips rhythmically",
+    "rotating hoop continuously",
+    "catching hoop with hands"
+  ],
+  "IceDancing": [
+    "lift partner",
+    "glide spin",
+    "throw twist",
+    "catch landing"
+  ],
+  "JavelinThrow": [
+    "grip javelin",
+    "run forward",
+    "pull arm back",
+    "release throw"
+  ],
+  "JugglingBalls": [
+    "tossing ball upward",
+    "catching ball",
+    "alternating hands",
+    "tracking ball"
+  ],
+  "JumpingJack": [
+    "arms swing up",
+    "legs jump apart",
+    "arms swing down",
+    "legs jump together"
+  ],
+  "JumpRope": [
+    "swinging rope overhead",
+    "hopping on both feet",
+    "lifting knees",
+    "landing softly"
+  ],
+  "Kayaking": [
+    "paddling forward",
+    "steering left",
+    "steering right",
+    "bracing balance"
+  ],
+  "Knitting": [
+    "holding yarn",
+    "looping thread",
+    "pulling loop",
+    "releasing stitch"
+  ],
+  "LongJump": [
+    "run-up",
+    "takeoff",
+    "flight",
+    "landing"
+  ],
+  "Lunges": [
+    "bend knees down",
+    "push hips back",
+    "lower torso",
+    "straighten legs up"
+  ],
+  "MilitaryParade": [
+    "march forward",
+    "salute",
+    "turn head",
+    "stop stance"
+  ],
+  "Mixing": [
+    "stirring bowl",
+    "pouring ingredient",
+    "whisking mixture",
+    "scraping sides"
+  ],
+  "MoppingFloor": [
+    "hold mop",
+    "push mop",
+    "pull mop",
+    "rinse mop"
+  ],
+  "Nunchucks": [
+    "swinging nunchucks overhead",
+    "rotating wrist",
+    "striking downward",
+    "spinning around body"
+  ],
+  "ParallelBars": [
+    "mounting the bars",
+    "swinging",
+    "balancing",
+    "dismounting"
+  ],
+  "PizzaTossing": [
+    "toss dough upward",
+    "catch dough",
+    "spin dough",
+    "stretch dough"
+  ],
+  "PlayingCello": [
+    "bow strings",
+    "press strings",
+    "pluck strings",
+    "move bow"
+  ],
+  "PlayingDaf": [
+    "striking drumhead",
+    "holding drum frame",
+    "moving wrist",
+    "tilting drum"
+  ],
+  "PlayingDhol": [
+    "striking drumhead",
+    "alternating hand hits",
+    "bending torso",
+    "lifting arms"
+  ],
+  "PlayingFlute": [
+    "hold flute",
+    "position lips",
+    "blow air",
+    "move fingers"
+  ],
+  "PlayingGuitar": [
+    "strumming strings",
+    "fretting chords",
+    "plucking strings",
+    "picking strings"
+  ],
+  "PlayingPiano": [
+    "positioning fingers on keys",
+    "pressing keys",
+    "moving hands across keyboard",
+    "pedaling with foot"
+  ],
+  "PlayingSitar": [
+    "strumming strings",
+    "plucking strings",
+    "sliding frets",
+    "tapping body"
+  ],
+  "PlayingTabla": [
+    "striking drum with hands",
+    "pressing rim for pitch",
+    "sliding palm on surface",
+    "alternating finger strokes"
+  ],
+  "PlayingViolin": [
+    "bowing strings",
+    "fingering notes",
+    "holding violin",
+    "shifting position"
+  ],
+  "PoleVault": [
+    "run-up",
+    "plant pole",
+    "drive upward",
+    "clear bar"
+  ],
+  "PommelHorse": [
+    "swing legs",
+    "support on hands",
+    "circle legs",
+    "shift weight"
+  ],
+  "PullUps": [
+    "grip bar",
+    "pull body",
+    "lower body",
+    "release grip"
+  ],
+  "Punch": [
+    "throw punch",
+    "retract arm",
+    "shift weight",
+    "reset stance"
+  ],
+  "PushUps": [
+    "lower body down",
+    "push body up",
+    "hold plank position",
+    "bend elbows"
+  ],
+  "Rafting": [
+    "paddling forward",
+    "steering raft",
+    "bracing against waves",
+    "pulling ashore"
+  ],
+  "RockClimbingIndoor": [
+    "grip hold",
+    "pull up",
+    "step up",
+    "reach next"
+  ],
+  "RopeClimbing": [
+    "grasp rope overhead",
+    "pull body upward",
+    "alternate hand grips",
+    "push legs down"
+  ],
+  "Rowing": [
+    "grip oars",
+    "pull back",
+    "lean forward",
+    "feather blades"
+  ],
+  "SalsaSpin": [
+    "step forward",
+    "lead spin",
+    "turn body",
+    "spot head"
+  ],
+  "ShavingBeard": [
+    "grasp razor",
+    "apply shaving foam",
+    "move razor downward",
+    "rinse razor"
+  ],
+  "Shotput": [
+    "cradle shot",
+    "glide forward",
+    "extend arm",
+    "release shot"
+  ],
+  "SkateBoarding": [
+    "push foot",
+    "balance body",
+    "turn board",
+    "land jump"
+  ],
+  "Skiing": [
+    "push poles",
+    "glide forward",
+    "bend knees",
+    "shift weight"
+  ],
+  "Skijet": [
+    "mounting jet ski",
+    "gripping handlebars",
+    "accelerating throttle",
+    "steering jet ski"
+  ],
+  "SkyDiving": [
+    "jumping from aircraft",
+    "freefalling",
+    "deploying parachute",
+    "landing"
+  ],
+  "SoccerJuggling": [
+    "ball touches feet",
+    "ball kicked upward",
+    "ball controlled",
+    "ball falls back"
+  ],
+  "SoccerPenalty": [
+    "run forward",
+    "plant foot",
+    "swing leg",
+    "follow through"
+  ],
+  "StillRings": [
+    "mounting rings",
+    "holding cross",
+    "swinging inverted",
+    "dismounting release"
+  ],
+  "SumoWrestling": [
+    "grabbing opponent's belt",
+    "pushing forward",
+    "lifting opponent",
+    "throwing opponent down"
+  ],
+  "Surfing": [
+    "paddling out",
+    "catching wave",
+    "popping up",
+    "riding wave"
+  ],
+  "Swing": [
+    "grasping chains",
+    "pushing legs forward",
+    "leaning back",
+    "releasing grip"
+  ],
+  "TableTennisShot": [
+    "swing racket",
+    "hit ball",
+    "follow through",
+    "reset stance"
+  ],
+  "TaiChi": [
+    "raise arms slowly",
+    "shift weight",
+    "rotate torso",
+    "extend legs"
+  ],
+  "TennisSwing": [
+    "raise racket back",
+    "swing forward",
+    "hit ball",
+    "follow through"
+  ],
+  "ThrowDiscus": [
+    "wind up",
+    "rotate body",
+    "release discus",
+    "follow through"
+  ],
+  "TrampolineJumping": [
+    "bending knees",
+    "pushing off",
+    "rising upward",
+    "landing with flex"
+  ],
+  "Typing": [
+    "positioning fingers on keys",
+    "pressing keys",
+    "moving hands across keyboard",
+    "striking keys repeatedly"
+  ],
+  "UnevenBars": [
+    "swing on bars",
+    "grip bar",
+    "release grip",
+    "rotate body"
+  ],
+  "VolleyballSpiking": [
+    "approach ball",
+    "jump upward",
+    "swing arm",
+    "hit ball"
+  ],
+  "WalkingWithDog": [
+    "walk dog",
+    "hold leash",
+    "step forward",
+    "pause sniff"
+  ],
+  "WallPushups": [
+    "lean forward",
+    "push wall",
+    "extend arms",
+    "return start"
+  ],
+  "WritingOnBoard": [
+    "grasping marker",
+    "moving hand",
+    "making strokes",
+    "lifting arm"
+  ],
+  "YoYo": [
+    "grip yo-yo",
+    "throw downward",
+    "yo-yo spins",
+    "catch yo-yo"
+  ]
+}

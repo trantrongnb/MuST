@@ -1,0 +1,8 @@
+numpy
+Pillow
+torch
+torchvision
+transformers
+
+# Tests
+pytest

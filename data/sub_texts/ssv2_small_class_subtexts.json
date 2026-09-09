@@ -1,0 +1,602 @@
+{
+  "Approaching something with your camera": [
+    "camera moves toward scene",
+    "scene size increases continuously",
+    "background details enlarge onscreen",
+    "camera halts at nearest"
+  ],
+  "Attaching something to something": [
+    "aligning attachment point",
+    "pressing fastener into slot",
+    "twisting fastener to lock",
+    "releasing tool from fastener"
+  ],
+  "Bending something until it breaks": [
+    "press middle until flexing",
+    "force ends past yielding",
+    "bend material to snapping",
+    "release snapped fragments apart"
+  ],
+  "Burying something in something": [
+    "press object downward",
+    "scoop material over object",
+    "tamp surface firmly",
+    "release hand from mound"
+  ],
+  "Dropping something into something": [
+    "fingers open above rim",
+    "object enters container interior",
+    "hand withdraws upward",
+    "object rests inside container"
+  ],
+  "Dropping something onto something": [
+    "hand tilts downward",
+    "object leaves fingers",
+    "object descends vertically",
+    "object impacts surface"
+  ],
+  "Failing to put something into something because something does not fit": [
+    "push item against opening",
+    "widen opening with item",
+    "press item into opening",
+    "item springs back out"
+  ],
+  "Holding something behind something": [
+    "arm extends backward",
+    "object passes rearward",
+    "hand releases behind torso",
+    "object rests hidden rearward"
+  ],
+  "Holding something in front of something": [
+    "approach object while holding",
+    "position item at target's",
+    "maintain contact with target's",
+    "release item in front"
+  ],
+  "Holding something next to something": [
+    "hand moves sideways",
+    "object contacts side",
+    "object rests beside",
+    "hand releases beside"
+  ],
+  "Holding something over something": [
+    "position object directly above",
+    "lower object until contact",
+    "maintain vertical alignment while",
+    "release object onto target"
+  ],
+  "Laying something on the table on its side, not upright": [
+    "reach object sideways",
+    "tilt object horizontal",
+    "place horizontal on table",
+    "release while horizontal"
+  ],
+  "Letting something roll along a flat surface": [
+    "releasing object after push",
+    "object rolling level",
+    "object maintaining flat path",
+    "object decelerating on flat"
+  ],
+  "Letting something roll down a slanted surface": [
+    "release from elevated grip",
+    "object travels downward slope",
+    "continues rolling beyond release",
+    "departs lower edge"
+  ],
+  "Letting something roll up a slanted surface, so it rolls back down": [
+    "releases onto upward slope",
+    "object climbs then slows",
+    "motion reverses downhill",
+    "returns to starting point"
+  ],
+  "Lifting a surface with something on it until it starts sliding down": [
+    "grip surface edges firmly",
+    "tilt surface upward gradually",
+    "slide object downhill",
+    "surface tilts past balance"
+  ],
+  "Lifting something up completely without letting it drop down": [
+    "grasp both sides fully",
+    "raise entire object vertically",
+    "maintain level orientation",
+    "set down without dropping"
+  ],
+  "Lifting up one end of something without letting it drop down": [
+    "grip one lifted end",
+    "raise unheld end upward",
+    "pause before full lift",
+    "hold tilted end suspended"
+  ],
+  "Lifting up one end of something, then letting it drop down": [
+    "angle one end upward",
+    "raise end past balance",
+    "release grip from raised",
+    "end falls back downward"
+  ],
+  "Moving away from something with your camera": [
+    "camera drifts backward",
+    "background scale shrinks",
+    "foreground objects enlarge",
+    "subjects recede from frame"
+  ],
+  "Moving part of something": [
+    "grip and shift part",
+    "slide part sideways",
+    "release while displaced",
+    "part rests in new"
+  ],
+  "Moving something across a surface until it falls down": [
+    "push object until tipping",
+    "object leaves table edge",
+    "object rotates past vertical",
+    "object drops off surface"
+  ],
+  "Moving something across a surface without it falling down": [
+    "pushes object horizontally",
+    "keeps palm contacting object",
+    "maintains object upright",
+    "releases without falling"
+  ],
+  "Moving something and something away from each other": [
+    "two objects move apart",
+    "gap widens between objects",
+    "objects separate symmetrically",
+    "distance increases between objects"
+  ],
+  "Moving something and something so they collide with each other": [
+    "two objects approach",
+    "surfaces make contact",
+    "force transfers between",
+    "objects rebound apart"
+  ],
+  "Moving something away from the camera": [
+    "grip object nearest camera",
+    "propel it backward",
+    "release contact quickly",
+    "object recedes from view"
+  ],
+  "Moving something towards the camera": [
+    "arm extends cameraward",
+    "object crosses depth midpoint",
+    "object enlarges in frame",
+    "object stops near lens"
+  ],
+  "Opening something": [
+    "grip lid surface",
+    "rotate lid outward",
+    "detach lid fully",
+    "expose container mouth"
+  ],
+  "Piling something up": [
+    "grasp lowest object",
+    "raise object above target",
+    "release from raised height",
+    "repeat dropping onto pile"
+  ],
+  "Plugging something into something": [
+    "carrying plug toward socket",
+    "aligning plug prongs with",
+    "inserting prongs into socket",
+    "releasing plug after seating"
+  ],
+  "Poking a hole into some substance": [
+    "hand presses pointed tool",
+    "tool penetrates surface inward",
+    "tool withdrawn leaving hole",
+    "hole remains in substance"
+  ],
+  "Poking a hole into something soft": [
+    "directing tool tip downward",
+    "pressing tool into soft",
+    "twisting tool to enlarge",
+    "withdrawing tool leaving indentation"
+  ],
+  "Poking a stack of something so the stack collapses": [
+    "fingers strike stack middle",
+    "stack top shifts sideways",
+    "stack splits at contact",
+    "pieces tumble downward"
+  ],
+  "Poking a stack of something without the stack collapsing": [
+    "press stack downward briefly",
+    "pause with stack intact",
+    "withdraw hand from stack",
+    "stack remains stationary upright"
+  ],
+  "Poking something so it slightly moves": [
+    "finger approaches contact point",
+    "knuckle impacts object surface",
+    "brief contact transfers impulse",
+    "object shifts then stops"
+  ],
+  "Poking something so lightly that it doesn't or almost doesn't move": [
+    "fingertip contacts object",
+    "pressure remains negligible",
+    "object stays stationary",
+    "fingertip withdraws untouched"
+  ],
+  "Poking something so that it spins around": [
+    "finger contacts off-center",
+    "apply quick forward impulse",
+    "object rotates full spin",
+    "object continues rotating freely"
+  ],
+  "Pouring something into something": [
+    "tip container downward at",
+    "direct stream into receiving",
+    "stop tilting once target",
+    "withdraw container from opening"
+  ],
+  "Pouring something into something until it overflows": [
+    "tilting container above rim",
+    "stream crossing opening edge",
+    "liquid rising past brim",
+    "continuing pour beyond full"
+  ],
+  "Pouring something out of something": [
+    "tilt container downward",
+    "stream exits opening",
+    "liquid arcs downward",
+    "liquid leaves container"
+  ],
+  "Pretending or failing to wipe something off of something": [
+    "extend hand toward surface",
+    "press cloth onto surface",
+    "slide cloth across surface",
+    "lift cloth away revealing"
+  ],
+  "Pretending or trying and failing to twist something": [
+    "grip cap rotate",
+    "wrist torque twists",
+    "resistance stops turn",
+    "release spin springs back"
+  ],
+  "Pretending to open something without actually opening it": [
+    "reach toward closed object",
+    "grip pretend surface",
+    "twist wrist outward",
+    "release without turning"
+  ],
+  "Pretending to poke something": [
+    "extend finger toward empty",
+    "stop short before contact",
+    "withdraw finger without touching",
+    "repeat quick jab motion"
+  ],
+  "Pretending to pour something out of something, but something is empty": [
+    "grip container tilted downward",
+    "shake container with empty",
+    "direct spout away from",
+    "return container to upright"
+  ],
+  "Pretending to put something on a surface": [
+    "lower hand without contact",
+    "hover palm above surface",
+    "mime release grip",
+    "withdraw hand upward"
+  ],
+  "Pretending to put something onto something": [
+    "raise hand upward",
+    "palm facing down",
+    "touch upper surface",
+    "release above object"
+  ],
+  "Pretending to put something underneath something": [
+    "lower limb to floor",
+    "slide object beneath raise",
+    "release object under cover",
+    "withdraw hand from below"
+  ],
+  "Pretending to spread air onto something": [
+    "palm faces upward",
+    "hand sweeps outward",
+    "fingers spread open",
+    "palm stops midair"
+  ],
+  "Pretending to take something from somewhere": [
+    "reach toward target spot",
+    "close empty hand",
+    "retract hand away",
+    "open hand revealing empty"
+  ],
+  "Pretending to turn something upside down": [
+    "rotate wrists downward",
+    "thumbs point downward",
+    "release grip with palms",
+    "hands end below starting"
+  ],
+  "Pulling something from right to left": [
+    "grip object from left",
+    "translate object rightward",
+    "pull along horizontal plane",
+    "release after rightward shift"
+  ],
+  "Pulling something onto something": [
+    "grasp object midair",
+    "swing object upward",
+    "set object onto surface",
+    "release grip lowering"
+  ],
+  "Pulling something out of something": [
+    "grip object inside container",
+    "draw object toward self",
+    "object emerges past rim",
+    "clear object from opening"
+  ],
+  "Pulling two ends of something so that it separates into two pieces": [
+    "gripping both free ends",
+    "pulling ends in opposite",
+    "increasing distance between hands",
+    "seeing the item split"
+  ],
+  "Pushing something off of something": [
+    "hand contacts pushed edge",
+    "applies horizontal pressure",
+    "object loses support base",
+    "pushed item free-falls downward"
+  ],
+  "Pushing something so that it almost falls off but doesn't": [
+    "apply continuous horizontal force",
+    "object shifts toward edge",
+    "object overhangs edge",
+    "force stops before tipping"
+  ],
+  "Pushing something so that it falls off the table": [
+    "push object sideways",
+    "object loses contact",
+    "object tips over",
+    "object falls off table"
+  ],
+  "Pushing something so that it slightly moves": [
+    "press surface with palm",
+    "exert sustained forward force",
+    "object slides short distance",
+    "object stays upright"
+  ],
+  "Pushing something with something": [
+    "press surface with body",
+    "slide object along surface",
+    "apply force toward opposite",
+    "maintain contact while pushing"
+  ],
+  "Putting number of something onto something": [
+    "reach onto surface",
+    "grasp item atop",
+    "raise item briefly",
+    "release item onto surface"
+  ],
+  "Putting something behind something": [
+    "reach toward object",
+    "grasp object",
+    "move behind target",
+    "release behind target"
+  ],
+  "Putting something in front of something": [
+    "extend arm toward front",
+    "place item at near",
+    "withdraw hand backward",
+    "item remains upright in"
+  ],
+  "Putting something into something": [
+    "gripping item and surface",
+    "moving item down into",
+    "releasing item inside cavity",
+    "withdrawing hand leaving item"
+  ],
+  "Putting something next to something": [
+    "grasping object",
+    "moving object laterally",
+    "placing beside target",
+    "releasing without support"
+  ],
+  "Putting something on a surface": [
+    "fingers release contact downward",
+    "object decelerates onto surface",
+    "hand withdraws upward away",
+    "object remains resting stationary"
+  ],
+  "Putting something on the edge of something so it is not supported and falls down": [
+    "release object beyond edge",
+    "object clears support surface",
+    "object drops from edge",
+    "object falls to floor"
+  ],
+  "Putting something onto a slanted surface but it doesn't glide down": [
+    "push object against incline",
+    "release object on slope",
+    "object remains motionless",
+    "withdraw hand away"
+  ],
+  "Putting something onto something else that cannot support it so it falls down": [
+    "place object onto weak",
+    "surface bends or crumples",
+    "object slides off surface",
+    "object drops to ground"
+  ],
+  "Putting something that cannot actually stand upright upright on the table, so it falls on its side": [
+    "release upright midair",
+    "object teeters on base",
+    "object tilts sideways",
+    "object falls flat"
+  ],
+  "Putting something upright on the table": [
+    "grasp object vertically",
+    "raise above tabletop",
+    "align base with surface",
+    "release while upright"
+  ],
+  "Putting something, something and something on the table": [
+    "release objects at surface",
+    "objects depart from hand",
+    "objects contact tabletop",
+    "hand withdraws leaving objects"
+  ],
+  "Removing something, revealing something behind": [
+    "grip edge and pull",
+    "slide obstruction sideways",
+    "clear path from front",
+    "expose surface previously hidden"
+  ],
+  "Rolling something on a flat surface": [
+    "push forward on object",
+    "release hand while moving",
+    "object travels across surface",
+    "object stops by friction"
+  ],
+  "Scooping something up with something": [
+    "sweep implement under item",
+    "curl implement beneath item",
+    "raise implement carrying item",
+    "tilt implement to retain"
+  ],
+  "Showing something behind something": [
+    "hand slides behind object",
+    "palm contacts far side",
+    "fingers curl around back",
+    "withdraws hand to front"
+  ],
+  "Showing something to the camera": [
+    "rotate item toward lens",
+    "angle item facing viewer",
+    "steady item in frame",
+    "lower item from view"
+  ],
+  "Showing that something is empty": [
+    "uncover empty container interior",
+    "rotate container opening downward",
+    "tilt container fully upright",
+    "show hollow interior space"
+  ],
+  "Something falling like a feather or paper": [
+    "releasing from above",
+    "drifting sideways downward",
+    "tumbling without spin",
+    "settling onto surface"
+  ],
+  "Spilling something behind something": [
+    "tilt container past edge",
+    "release contents behind object",
+    "liquid disappears from view",
+    "empty container lifts away"
+  ],
+  "Spilling something next to something": [
+    "hand tilts over container",
+    "container mouth angles down",
+    "contents pour out sideways",
+    "object lands beside target"
+  ],
+  "Spinning something that quickly stops spinning": [
+    "hand rapidly accelerates object",
+    "object rotates about axis",
+    "motion speed sharply decelerates",
+    "rotation halts instantaneously"
+  ],
+  "Spreading something onto something": [
+    "hand deposits substance",
+    "substance lands on surface",
+    "fingers smear residue outward",
+    "residue covers contact zone"
+  ],
+  "Squeezing something": [
+    "fingers curl inward toward",
+    "pressure increases around gripped",
+    "object deforms under fingertip",
+    "grip relaxes without releasing"
+  ],
+  "Stacking number of something": [
+    "lowering object onto pile",
+    "releasing object atop pile",
+    "withdrawing hand from pile",
+    "pile height visibly increasing"
+  ],
+  "Taking one of many similar things on the table": [
+    "fingers pinch one item",
+    "item separates from group",
+    "item lifts clear of",
+    "hand retracts holding item"
+  ],
+  "Taking something out of something": [
+    "reach inside container",
+    "grip object interior",
+    "pull object outward",
+    "release object outside"
+  ],
+  "Throwing something in the air and catching it": [
+    "grip object palm-down",
+    "swing arm upward",
+    "release fingers upward",
+    "watch object descend to"
+  ],
+  "Throwing something onto a surface": [
+    "arm swings forward",
+    "fingers uncurl releasing",
+    "object arcs descending",
+    "knuckles strike surface"
+  ],
+  "Tilting something with something on it slightly so it doesn't fall down": [
+    "tilt board minimally upward",
+    "stabilize object against shifting",
+    "hold tilt angle constant",
+    "return board to level"
+  ],
+  "Tilting something with something on it until it falls off": [
+    "tilt surface past balance",
+    "object slides off support",
+    "loses contact with surface",
+    "object freefalls downward"
+  ],
+  "Tipping something with something in it over, so something in it falls out": [
+    "container tilts past vertical",
+    "contents slide from rim",
+    "contents exit container mouth",
+    "container empties downward"
+  ],
+  "Touching (without moving) part of something": [
+    "fingertips touch surface",
+    "limbs become still",
+    "contact persists unchanged",
+    "digits leave spot"
+  ],
+  "Trying to bend something unbendable so nothing happens": [
+    "grip rigid object firmly",
+    "push palms inward",
+    "strain muscles visibly",
+    "release unchanged object"
+  ],
+  "Turning the camera left while filming something": [
+    "rotate wrist rightward",
+    "pan camera left",
+    "sweep view left",
+    "end facing leftward"
+  ],
+  "Twisting (wringing) something wet until water comes out": [
+    "two hands rotate opposite",
+    "twist fabric tightening loop",
+    "squeeze twisted bundle",
+    "water drips from twist"
+  ],
+  "Twisting something": [
+    "gripping object with both",
+    "rotating wrists in opposite",
+    "maintaining grip while turning",
+    "releasing after full twist"
+  ],
+  "Uncovering something": [
+    "grasp cover edge",
+    "peel cover upward",
+    "expose hidden surface",
+    "release cover aside"
+  ],
+  "Unfolding something": [
+    "grasp folded item edges",
+    "pull opposite edges apart",
+    "rotate hands outward",
+    "lay resulting sheet flat"
+  ],
+  "Wiping something off of something": [
+    "hand contacts surface",
+    "traces across surface",
+    "palm slides off edge",
+    "hand leaves surface"
+  ]
+}

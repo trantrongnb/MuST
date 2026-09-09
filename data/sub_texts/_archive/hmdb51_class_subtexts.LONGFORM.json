@@ -1,0 +1,308 @@
+{
+  "brush_hair": [
+    "This action is initiating the brush stroke by lifting the brush from the resting surface and positioning it at the root of the hair, typically at the scalp or crown, with the bristles angled downward toward the hair shaft.",
+    "This action is executing the downward stroke by moving the brush in a smooth, continuous motion from the root to the ends of the hair, allowing the bristles to glide through and detangle the strands while maintaining consistent pressure.",
+    "This action is repeating the stroke pattern by lifting the brush back to the starting point or a slightly lower section, then sweeping downward again, adjusting the angle or section of hair as needed to cover the entire head systematically.",
+    "This action is finishing the sequence by giving a final, slower stroke through the hair to smooth any remaining tangles, then pausing the brush at the ends before lowering it away from the head to conclude the brushing motion."
+  ],
+  "cartwheel": [
+    "This action is initiating the movement by raising both arms overhead and lunging forward with the dominant leg, shifting the body's weight onto the front foot to build forward momentum.",
+    "This action is planting both hands firmly on the ground, one after the other, while kicking the back leg upward and then the front leg, creating an inverted, split-leg position with the torso vertical and hips over the shoulders.",
+    "This action is allowing the legs to arc over the head in a continuous, sweeping motion, with the body rotating sideways (laterally) through the vertical plane, while the hands remain planted and the arms stay straight to support the body's weight.",
+    "This action is completing the rotation by landing first on the leading foot, then the trailing foot, while pushing off the ground with the hands to return to a standing upright position, with arms still extended overhead before lowering them."
+  ],
+  "catch": [
+    "This action is the preparatory phase, where the individual positions their body and limbs in anticipation. The focus here is on visual tracking and spatial alignment, as the eyes lock onto the object's trajectory and the hands or arms move into an open, receptive position. This phase is critical because proper setup determines the margin of error for the entire catch.",
+    "This action is the contact phase, where the object first meets the skin or glove. The emphasis is on the precise moment of impact, including the timing of the closure of the fingers or the flexing of the wrist to secure the object. This phase is vital because it converts a moving projectile into a controlled, static object, and any miscalculation here leads to a drop.",
+    "This action is the absorption phase, where the body dynamically decelerates the object's momentum. The focus is on the coordinated bending of the elbows, knees, or torso to soften the impact, reducing the risk of the object bouncing out. This phase is essential because it transforms kinetic energy into controlled movement, preventing injury and ensuring the catch is stable.",
+    "This action is the securing and stabilization phase, where the object is brought fully under control. The emphasis is on the final grip, tucking the object against the body or cradling it with both hands, and the return to a balanced stance. This phase is critical because it marks the completion of the catch, allowing for immediate subsequent actions like throwing, passing, or safe handling."
+  ],
+  "chew": [
+    "This action is opening the mouth slightly and bringing a portion of food to the lips, using fingers or utensils, to place it inside the oral cavity.",
+    "This action is closing the lips and moving the lower jaw in a rhythmic, vertical, and slightly rotational motion, pressing the food between the upper and lower teeth to break it into smaller pieces.",
+    "This action is using the tongue and cheek muscles to move the crushed food to the side of the mouth, mixing it with saliva to form a soft, cohesive bolus, while continuing the jaw's grinding motion.",
+    "This action is positioning the bolus at the back of the tongue and initiating a swallowing reflex, lifting the soft palate and closing the airway to push the food down the esophagus, followed by a brief pause before the next bite."
+  ],
+  "clap": [
+    "This action is a rhythmic, percussive gesture, where the palms of both hands are brought together with controlled force to produce a sharp, audible sound. Its significance lies in its universal role as a non-verbal signal of approval, appreciation, or celebration, transcending language barriers.",
+    "This action is a dynamic, expressive motion, involving the rapid flexion of the elbows and shoulders to swing the hands from a resting or raised position toward the body's midline. Its diversity is seen in the varying speed and intensity—from a slow, deliberate clap to a fast, enthusiastic ovation—which can convey subtle emotional nuances like sarcasm, urgency, or deep respect.",
+    "This action is a precise, tactile contact event, where the fingers and palms align to create a flat, resonant surface upon impact. This movement is significant because the angle and pressure of contact alter the sound and feel, allowing for a wide range of clapping styles, from a gentle pat to a loud, echoing crack, used in different cultural and social contexts.",
+    "This action is a repetitive, cyclical sequence, where the hands are separated and then re-united in a continuous loop, often synchronized with others in a group. Its significance is amplified in collective settings, such as concerts, sports events, or rituals, where synchronized clapping fosters a sense of unity, shared emotion, and communal energy."
+  ],
+  "climb": [
+    "This action is the coordinated, rhythmic extension and flexion of the limbs as the body ascends a vertical or near-vertical surface, with the hands and feet seeking secure holds.",
+    "This action is a dynamic balance of weight transfer, where the core engages to keep the body stable while the hips shift to align with the point of greatest friction.",
+    "This action is a sequence of discrete, deliberate movements, often involving a reach, a grip, a pull, and a push, with pauses to assess the next point of contact.",
+    "This action is a full-body engagement that combines upper-body pulling strength, lower-body pushing power, and precise spatial awareness to overcome gravitational resistance."
+  ],
+  "climb_stairs": [
+    "This action is the **initial weight shift and limb positioning**, where the person transfers their center of gravity onto the supporting leg while simultaneously lifting the opposite foot. This phase is critical because it establishes balance and prepares the body for upward momentum, preventing stumbling or misalignment on the stair edge.",
+    "This action is the **propulsive push-off and vertical lift**, during which the supporting leg extends at the ankle, knee, and hip to drive the body upward, while the raised foot is placed on the next step. This phase is essential for generating the force needed to overcome gravity, and its timing dictates the smoothness and efficiency of the climb.",
+    "This action is the **weight transfer and stabilization on the new step**, where the body’s mass shifts fully onto the elevated foot, and the trailing leg begins to swing forward. This phase is vital for maintaining dynamic equilibrium on a narrow surface, as it requires core engagement and precise ankle control to avoid excessive sway or loss of forward drive.",
+    "This action is the **trailing leg recovery and cycle completion**, where the rear foot clears the lower step, swings past the supporting leg, and prepares to land on the next higher step. This phase is crucial for rhythm and continuity, as any hesitation or incorrect foot clearance can break the cadence, increase energy expenditure, or cause a trip."
+  ],
+  "dive": [
+    "This action is a vertical, head-first plunge where the body rotates from a standing or running position into a downward trajectory toward the water’s surface.",
+    "This action is a controlled aerial phase, involving limb coordination—arms extended or tucked, legs straightened—to minimize splash and ensure a clean entry.",
+    "This action is a dynamic interaction with the environment, where the individual transitions from solid ground to fluid medium, with the body’s momentum overcoming air resistance before submersion.",
+    "This action is a biomechanical sequence of joint flexion and extension, from ankle push-off and knee bend to hip hinge and shoulder reach, culminating in a streamlined, pointed-toward-the-water body line."
+  ],
+  "draw_sword": [
+    "This action is **initiation and grip establishment**, where the person shifts their weight, aligns their dominant hand to the sword's hilt, and secures a firm grip—often with the thumb braced along the guard. This phase is critical because it sets the angle of the draw, prevents the blade from catching on the scabbard, and prepares the wrist for explosive motion.",
+    "This action is **extraction and clearance**, involving a smooth, controlled pull of the blade upward and outward from the scabbard, typically with the elbow tucked and the blade angled away from the body. The importance here lies in maintaining blade alignment to avoid scraping the edge, and in generating early momentum without over-committing the torso, which could telegraph the movement.",
+    "This action is **rotation and orientation**, where the wrist rotates to bring the blade from a vertical or diagonal draw position into a ready guard (e.g., front, side, or overhead). This phase is vital for transitioning from a defensive or neutral stance to an offensive or defensive ready state, ensuring the cutting edge faces the intended target and the point is controlled.",
+    "This action is **completion and stabilization**, marked by the sword reaching its final position, the off-hand releasing the scabbard, and the body settling into a balanced stance with the blade either extended or held close. This phase is essential for immediate follow-up actions—strike, parry, or retreat—as it locks the grip, aligns the shoulders, and minimizes wasted motion, turning the draw into a seamless combat sequence."
+  ],
+  "dribble": [
+    "This action is the initial stance and ball placement, where the person stands with feet shoulder-width apart, knees slightly bent, and holds the basketball at waist height with both hands, fingertips spread for control.",
+    "This action is the downward push, where the person uses their dominant hand to forcefully push the ball toward the floor, extending the arm and wrist to create a controlled bounce, with the ball striking the ground slightly in front and to the side of their body.",
+    "This action is the ball's rebound and hand contact, where the ball bounces back up to approximately hip height, and the person's open hand meets it with flexed fingers, absorbing the impact by bending the elbow and wrist to maintain control and prepare for the next push.",
+    "This action is the continuous rhythmic repetition, where the person alternates or repeats the push-and-catch motion without stopping, shifting weight subtly between feet and keeping eyes up to survey the court, thereby sustaining the dribble as a fluid, unbroken sequence."
+  ],
+  "drink": [
+    "This action is the **initiation phase**, where the individual’s attention shifts from their current environment to the act of hydration. The person typically reaches for a cup, bottle, or glass, with their hand making deliberate contact. The importance here lies in establishing intent and object selection—this phase sets the motor plan, ensuring the correct vessel is grasped (e.g., adjusting grip for a handle vs. a cylindrical bottle) and that the limb is raised toward the mouth with proper trajectory.",
+    "This action is the **approach and alignment phase**, where the vessel is brought to the lips while the head tilts slightly backward or the neck extends. The critical element is spatial coordination: the rim of the container must align with the lower lip, and the wrist angle adjusts to avoid spillage. This phase is essential for preventing fluid loss and ensuring the liquid’s path is directed into the oral cavity, not down the chin or clothing.",
+    "This action is the **consumption phase**, involving controlled tipping of the vessel and coordinated swallowing. The person tilts the container at an increasing angle, while the lips seal partially around the rim to regulate flow. The importance here is fluid intake efficiency—this phase requires rhythmic swallowing (or gulping) and breath control to avoid choking. It also includes subtle tongue and jaw movements that manage volume, making it the core functional moment of the action.",
+    "This action is the **termination and recovery phase**, where the vessel is lowered, the head returns to neutral, and the person may wipe their mouth or set the container down. The critical aspect is the smooth deceleration of movement and release of grip, as well as a final swallow to clear residual liquid. This phase ensures the action concludes without spillage or awkwardness, and it signals a return to the prior activity, making it vital for fluid, natural transitions in daily behavior."
+  ],
+  "eat": [
+    "This action is the initial approach and preparation, where the person brings the food item to their mouth while simultaneously opening their jaw to create an adequate space for intake.",
+    "This action is the biting or tearing phase, where the teeth make contact with the food to sever a manageable portion, using controlled pressure to detach it from the larger piece.",
+    "This action is the intra-oral manipulation, where the tongue and cheek muscles move the bite-sized portion within the mouth to position it onto the molars for effective chewing.",
+    "This action is the mastication and swallowing phase, where the teeth grind the food into a soft bolus, mixed with saliva, and then the tongue propels it toward the pharynx to initiate the swallow reflex."
+  ],
+  "fall_floor": [
+    "This action is a rapid, uncontrolled descent, where the body's center of gravity shifts dramatically downward, often initiated by a stumble, trip, or loss of balance.",
+    "This action is a defensive limb reaction, where the arms flail outward or reach downward in a reflexive attempt to brace against the impact or regain equilibrium.",
+    "This action is a progressive collapse of joint stability, with knees and hips buckling in a sequence that accelerates the fall, transforming an upright posture into a horizontal or crumpled position.",
+    "This action is a final impact absorption, where the body contacts the floor—whether via knees, hands, hips, or shoulder—followed by a brief, involuntary rebound or stillness as the kinetic energy dissipates."
+  ],
+  "fencing": [
+    "This action is the initial en garde stance, where the fencer positions their body sideways, with the front foot pointing forward and the back foot perpendicular, knees bent, and the weapon arm extended toward the opponent while the off-hand is raised behind for balance.",
+    "This action is the advance, a short forward step where the front foot lifts slightly and moves ahead, followed by the back foot sliding to maintain the original stance distance, closing the gap with the opponent.",
+    "This action is the lunge, a explosive extension of the back leg and a forward thrust of the front leg, while the weapon arm fully extends to deliver a sharp, straight attack toward the opponent's target area.",
+    "This action is the recovery, where the fencer pushes off the front foot, pulls the back leg forward to return to the en garde position, and resets the guard to prepare for the next action or defense."
+  ],
+  "flic_flac": [
+    "This action is a dynamic, explosive backward propulsion of the body, initiated from a standing or brief run-up, where the individual throws their arms overhead and drives their hips forward to generate momentum.",
+    "This action is a sequential weight transfer from the feet to the hands, involving a rapid backward lean, a powerful leg push-off, and a firm placement of the palms on the ground to support the body’s inverted arc.",
+    "This action is a continuous, fluid motion of the spine and limbs through a vertical plane, characterized by a brief handstand-like position, a tight tuck of the core, and a forceful snap of the legs over the head to return to an upright stance.",
+    "This action is a high-risk, high-skill maneuver requiring precise timing, shoulder strength, and spatial awareness, as the performer must blindly transition through an inverted position and land with controlled balance on both feet."
+  ],
+  "golf": [
+    "This action is the **address and setup phase**, where the person establishes their stance and alignment. The feet are positioned shoulder-width apart, knees slightly flexed, and the torso tilted forward from the hips. The grip on the club is secured, and the clubhead is placed behind the ball. This phase is critical because it sets the foundation for balance, aim, and the correct swing plane—any misalignment here compromises accuracy and power.",
+    "This action is the **backswing phase**, which involves a controlled rotation of the torso, hips, and shoulders away from the target. The arms remain relatively straight, the wrists hinge to create a 90-degree angle with the club shaft, and the weight shifts to the back foot. This phase is vital because it stores potential energy, establishes the swing’s rhythm, and determines the club’s path. A proper backswing ensures the clubhead reaches the optimal height and angle for a powerful downswing.",
+    "This action is the **downswing and impact phase**, where the weight transfers from the back foot to the front foot while the hips rotate toward the target. The arms and club drop into the \"slot,\" and the wrists unhinge just before the clubhead strikes the ball. The body’s kinetic chain—from legs through hips to shoulders—accelerates the clubhead to maximum speed at impact. This phase is crucial because it directly dictates ball flight, distance, and direction. A well-timed downswing ensures a square clubface at impact, preventing slices or hooks.",
+    "This action is the **follow-through and finish phase**, where the club continues its arc after striking the ball. The body rotates fully toward the target, the back heel lifts, and the club wraps around the shoulders or neck. The weight settles on the front foot, and the spine remains tall. This phase is essential for balance, deceleration control, and preventing injury. A complete follow-through also confirms that the swing was fluid and committed, as an abrupt stop often indicates a loss of tempo or poor weight transfer."
+  ],
+  "handstand": [
+    "Step 1: This action is the initial positioning, where the person stands upright with feet shoulder-width apart, arms raised overhead, and core engaged to prepare for the inversion.",
+    "Step 2: This action is the forward lunge and hand placement, where the person steps one foot forward, bends at the hips, and places both hands firmly on the ground shoulder-width apart, fingers spread for stability.",
+    "Step 3: This action is the kick-up and balance phase, where the person kicks the back leg upward while pushing off the front foot, bringing both legs together vertically, and engages the shoulders, arms, and core to hold the inverted body position.",
+    "Step 4: This action is the controlled descent, where the person slowly lowers one leg back to the ground, followed by the other, returning to a standing position with arms raised or relaxed, maintaining control throughout to avoid injury."
+  ],
+  "hit": [
+    "This action is a forceful, dynamic movement where the person’s limb (typically a hand, fist, or foot) accelerates toward a target, making contact with impact.",
+    "This action is a physical interaction involving a transfer of kinetic energy from the person’s body to the object, often producing a sound or visible deformation of the target.",
+    "This action is a goal-directed behavior, often performed with intent (e.g., to break, strike, or signal), and involves coordination of the torso, arm, and wrist for precision or power.",
+    "This action is a momentary, high-intensity event, characterized by a rapid follow-through and a brief pause after contact, with the body’s posture reflecting balance and control."
+  ],
+  "hug": [
+    "This action is initiating the approach, where the person moves toward the other individual, often with arms beginning to open outward and forward, while maintaining eye contact or a welcoming posture to signal intent.",
+    "This action is extending and wrapping the arms, where the person brings both arms around the other's torso or shoulders, positioning hands to make firm but gentle contact with the back or upper arms, while leaning the upper body slightly forward to close the distance.",
+    "This action is pressing and embracing, where the person pulls the other individual closer, applying moderate pressure through the arms and chest, often tilting the head to one side to avoid collision, and may include a gentle squeeze or pat on the back to convey warmth or reassurance.",
+    "This action is releasing and stepping back, where the person gradually loosens the grip, unwraps the arms, and takes a small step backward to create personal space, often followed by a brief smile, nod, or verbal acknowledgment to conclude the interaction smoothly."
+  ],
+  "jump": [
+    "1. This action is the preparatory crouch, where the person bends their knees and hips, lowering their center of gravity while swinging their arms backward to gather momentum.",
+    "2. This action is the explosive extension, where the person forcefully straightens their legs and ankles, pushing off the ground while simultaneously swinging their arms upward and forward to propel the body into the air.",
+    "3. This action is the airborne phase, where the person leaves the ground, tucks or extends their limbs as needed, and maintains balance and posture while traveling upward and forward through the air.",
+    "4. This action is the landing and absorption, where the person makes contact with the ground, bending their knees and hips to absorb impact, and uses their arms to maintain stability before returning to an upright stance."
+  ],
+  "kick": [
+    "This action is **Initiation**, where the individual shifts their weight onto the supporting leg, bends the kicking knee slightly, and draws the kicking limb backward or upward to create a loaded, pre-strike tension. This phase is critical because it establishes balance, sets the trajectory, and generates the initial elastic energy required for a powerful, controlled extension.",
+    "This action is **Execution**, involving a rapid, coordinated extension of the hip and knee joints, driving the foot or shin forward, upward, or sideways toward the target. This phase is critical for delivering force with precision and speed, as the timing of muscle activation (glutes, quads, and core) determines both impact velocity and the angle of contact.",
+    "This action is **Follow-Through**, where the kicking limb continues its motion past the point of contact (or the intended target point) without abrupt deceleration. This phase is critical for ensuring the full transfer of momentum, reducing joint strain, and maintaining the natural arc of the movement—preventing injury and maximizing the effectiveness of the strike.",
+    "This action is **Recovery**, where the individual actively retracts the kicking limb back to a stable stance or ready position, often with a slight bending of the knee and re-establishing both feet on the ground. This phase is critical for regaining postural control, preparing for subsequent actions, and avoiding vulnerability to counterattacks or loss of balance."
+  ],
+  "kick_ball": [
+    "This action is **Initiation and Approach**, where the individual establishes a stable base by positioning their non-kicking foot beside the ball, aligning their body toward the target, and swinging the kicking leg backward with a bent knee to generate potential energy. This phase is critical for balance, direction, and setting the range of motion for a powerful strike.",
+    "This action is **Leg Swing and Contact**, where the hip flexes and the thigh drives forward while the lower leg extends rapidly, striking the ball with the instep or laces. The ankle is locked, and the torso leans slightly forward to transfer momentum. This phase determines the ball's speed, spin, and accuracy, making it the most technically demanding moment of the kick.",
+    "This action is **Follow-Through and Weight Transfer**, where the kicking leg continues its forward trajectory past the point of contact, while the body weight shifts from the back foot to the front foot. The arms extend for balance, and the torso rotates naturally. This phase ensures maximum energy transfer, reduces injury risk, and stabilizes the body after the explosive motion.",
+    "This action is **Recovery and Reset**, where the kicking leg decelerates smoothly and returns to a neutral stance, while the supporting leg maintains ground contact and the eyes track the ball's flight. The body regains upright posture, ready for the next movement. This phase is essential for maintaining control, preventing falls, and enabling a rapid transition to subsequent actions like running or repositioning."
+  ],
+  "kiss": [
+    "This action is the initial approach, where the person leans in toward their partner, tilting their head to one side to avoid bumping noses, and begins to close their eyes while their lips part slightly.",
+    "This action is the moment of contact, where the person presses their lips gently against their partner's lips, maintaining a soft and relaxed mouth posture while adjusting the angle of their head for a comfortable fit.",
+    "This action is the sustained embrace of the kiss, where the person holds the lip contact for a few seconds, applying subtle pressure and possibly moving their lips slightly in a gentle, rhythmic motion to convey affection.",
+    "This action is the release, where the person slowly pulls their head back, opens their eyes, and relaxes their lips into a slight smile or neutral expression, often while maintaining close proximity or a gentle touch to conclude the gesture."
+  ],
+  "laugh": [
+    "This action is the **initiation phase**, where the person’s face begins to react involuntarily: the corners of the mouth curl upward, the cheeks lift, and the eyes narrow slightly, often accompanied by a sharp intake of breath through the nose or mouth. This phase is critical because it signals the onset of genuine emotional engagement, setting the stage for the physical and auditory expressions that follow.",
+    "This action is the **vocalization phase**, where the person produces rhythmic, staccato sounds—ranging from soft chuckles to loud, full-bellied laughter—driven by rapid contractions of the diaphragm and intercostal muscles. This phase is crucial as it transforms the facial expression into an audible, socially communicative signal, reinforcing the emotional context and inviting shared interaction.",
+    "This action is the **body integration phase**, where the laughter spreads beyond the face and voice: the head may tilt back or forward, shoulders shake, torso heaves, and sometimes the person bends at the waist or slaps a knee. This phase is vital because it amplifies the intensity and authenticity of the action, making it visibly whole-body and often contagious to observers.",
+    "This action is the **resolution phase**, where the laughter gradually decelerates—vocalizations soften into sighs or giggles, the face relaxes, and the body returns to a neutral posture, sometimes leaving residual smiles or teary eyes. This phase is essential for closing the behavioral loop, allowing the person to regain composure while retaining the emotional afterglow, which signals the end of the expressive episode and readiness for subsequent actions."
+  ],
+  "pick": [
+    "This action is a physical engagement where an individual lowers their center of gravity, typically by bending at the hips and knees, to reach toward an object.",
+    "This action is a goal-directed manipulation, involving the extension of the arm, the grasping of the object with the hand or fingers, and the subsequent lifting of the object against gravity.",
+    "This action is a biomechanical sequence of coordinated movements, starting with torso flexion, followed by shoulder and elbow joint movement, and concluding with a vertical pull to raise the object to a desired height.",
+    "This action is a context-dependent interaction, where the speed, posture, and grip strength vary based on the object's size, weight, and location (e.g., floor, shelf, or table), as well as the person's intent (e.g., to move, hold, or inspect the item)."
+  ],
+  "pour": [
+    "This action is initiating the pour by tilting the container, such as a bottle or pitcher, at a specific angle toward the target receptacle, while simultaneously positioning the opening just above the rim to control the flow.",
+    "This action is directing the liquid in a steady, controlled stream from the container into the target, maintaining a consistent tilt and adjusting the angle or height as needed to avoid splashing or spilling.",
+    "This action is monitoring the liquid level in the target receptacle, gradually reducing the tilt angle of the container as the volume approaches the desired fill point, and slowing the flow to prevent overflow.",
+    "This action is completing the pour by fully straightening the container to an upright position, allowing the final drops to fall, and then withdrawing the container away from the receptacle to end the transfer cleanly."
+  ],
+  "pullup": [
+    "This action is the initial setup, where the person grips the overhead bar with both hands, typically using an overhand (pronated) grip slightly wider than shoulder-width, and hangs with arms fully extended, engaging the shoulder blades and core to stabilize the body.",
+    "This action is the initiation of the pull, where the person exhales and drives the elbows down and back, pulling the chest toward the bar while keeping the legs straight or slightly bent and the body rigid to avoid swinging.",
+    "This action is the peak contraction, where the person pulls until the chin clears the bar (or the upper chest nears it), squeezing the shoulder blades together and holding the top position briefly to maximize lat and bicep engagement.",
+    "This action is the controlled descent, where the person inhales and slowly lowers the body back to the fully extended hang, resisting gravity to maintain muscle tension, before resetting for the next repetition."
+  ],
+  "punch": [
+    "This action is a rapid, forceful extension of the arm, typically with a closed fist, directed toward a target, involving a sudden transfer of body weight from the rear leg to the front leg.",
+    "This action is a coordinated rotational movement of the hips and torso, which generates torque and amplifies the speed and power of the fist as it travels along a straight or slightly arced path.",
+    "This action is a dynamic sequence of muscle contractions, starting with the shoulder and chest (e.g., deltoids and pectorals) and culminating in the triceps and forearm, followed by a quick retraction to return the arm to a guarded position.",
+    "This action is a striking maneuver with distinct biomechanical phases—wind-up (slight shoulder retraction), acceleration (arm extension), impact (fist contact), and follow-through (brief forward lean)—often accompanied by a sharp exhale for core stability."
+  ],
+  "push": [
+    "This action is a dynamic transfer of force, where the person applies sustained pressure through their arms, shoulders, or core to move an object away from their body along a horizontal or slightly inclined plane.",
+    "This action is a biomechanical sequence, typically involving a forward lean, a staggered or braced stance, and coordinated extension of the legs and hips to generate power, while the hands maintain contact with the object's surface.",
+    "This action is an interaction with resistance, where the object may be stationary, rolling, or sliding, and the person must continuously adjust their effort to overcome friction, inertia, or gravity, often with visible muscle tension and controlled breathing.",
+    "This action is a goal-oriented behavior, often performed to relocate an item (e.g., a cart, a door, a piece of furniture), clear a path, or assist another person, and is characterized by a deliberate, repetitive or sustained motion rather than a single, quick strike."
+  ],
+  "pushup": [
+    "1. This action is the initial positioning phase, where the person lies face down on the floor with hands placed slightly wider than shoulder-width apart, palms flat on the ground, and toes tucked under to support the lower body, keeping the body in a straight line from head to heels.",
+    "2. This action is the lowering phase, where the person bends their elbows and slowly descends their chest toward the floor while maintaining a rigid, straight torso, ensuring the hips do not sag or rise, until the chest is just above the ground.",
+    "3. This action is the pushing phase, where the person engages their chest, shoulders, and triceps to press forcefully through the palms, extending the elbows and lifting the body back upward to the starting position, keeping the core tight and the body aligned.",
+    "4. This action is the stabilization and repetition phase, where the person briefly holds the top position with arms fully extended and body straight, then repeats the lowering and pushing sequence for the desired number of repetitions without breaking form."
+  ],
+  "ride_bike": [
+    "This action is the initial mounting phase, where the person approaches the stationary or slowly-moving bike, places both hands on the handlebars, and swings one leg over the frame to sit on the saddle, while simultaneously positioning one foot on a pedal to prepare for propulsion.",
+    "This action is the propulsion initiation phase, where the person pushes down forcefully on the front pedal with the first foot while the other foot remains on the ground or is quickly lifted to the opposite pedal, creating forward momentum and balancing the bike with subtle torso and arm adjustments.",
+    "This action is the continuous cycling phase, where the person alternates pushing and pulling on the pedals in a circular motion, maintaining a steady cadence, while the legs move in a coordinated up-and-down rhythm, and the arms and core actively steer and stabilize the bike to navigate the path.",
+    "This action is the deceleration and dismounting phase, where the person gradually reduces pedaling speed, applies gentle pressure to the brakes to slow down, shifts weight backward, and then stops completely, followed by swinging one leg back over the frame and stepping down to the ground, releasing the handlebars."
+  ],
+  "ride_horse": [
+    "This action is the dynamic interaction between a human and an equine, where the person maintains balance and control while the horse moves forward.",
+    "This action is a rhythmic sequence of the rider's postural adjustments—shifting weight, bending knees, and guiding reins—to synchronize with the horse's gait (walk, trot, or canter).",
+    "This action is a coordinated use of physical cues, including leg pressure, hand signals, and core stability, to direct the horse's speed, direction, and stride.",
+    "This action is a purposeful locomotion activity, often performed for sport, leisure, or work, requiring skill, balance, and mutual responsiveness between rider and animal."
+  ],
+  "run": [
+    "This action is a powerful forward propulsion, where the body leans slightly ahead of the feet, and each foot strikes the ground with a rapid, spring-like push-off that drives the runner horizontally.",
+    "This action is a dynamic arm swing, where the elbows bend near 90 degrees and the arms pump in opposition to the legs—forward and back—to balance rotational forces and add momentum to the stride.",
+    "This action is a synchronized knee lift and hip extension cycle, where the lead knee drives upward and forward while the trailing leg extends fully behind, creating a brief airborne phase where both feet leave the ground.",
+    "This action is a controlled torso rotation and core stabilization, where the pelvis and shoulders counter-rotate subtly to absorb impact and maintain an upright, efficient posture, preventing wasted lateral motion."
+  ],
+  "shake_hands": [
+    "This action is initiated by the extension of the right arm and hand toward the counterpart, with the palm facing sideways and fingers fully extended—a deliberate, open gesture signaling approach and mutual intent.",
+    "This action is characterized by the clasping of palms and the interlocking of the web between thumb and index finger, creating a firm, neutral grip that establishes physical contact and a shared point of connection.",
+    "This action is distinguished by a rhythmic, vertical pumping motion of the clasped hands, typically 2-4 times, driven by the elbows and shoulders—this movement conveys engagement, agreement, or greeting, and varies in amplitude and speed to reflect social context or emotional warmth.",
+    "This action is completed by the synchronized release of grip and the retraction of the hands, often accompanied by a slight nod or step back, which signals closure, mutual respect, and the transition to further interaction."
+  ],
+  "shoot_ball": [
+    "This action is the player establishing their stance and preparing to receive the ball, with knees slightly bent, feet shoulder-width apart, and eyes locked on the incoming pass or the rim.",
+    "This action is the player catching or gathering the basketball with both hands, then lowering it to their shooting pocket (around the waist or chest) while simultaneously aligning their shooting hand under the ball and their guide hand on the side.",
+    "This action is the player initiating the upward motion by extending their legs and jumping vertically, while bringing the ball up in one fluid motion to a point just above their forehead, with the shooting elbow aligned toward the basket and the wrist cocked back.",
+    "This action is the player releasing the ball at the peak of their jump by snapping their wrist forward and extending their shooting arm fully, following through with their fingers pointing toward the rim, while the guide hand stays steady and the player lands balanced on both feet."
+  ],
+  "shoot_bow": [
+    "This action is the initial setup, where the individual plants their feet shoulder-width apart, grips the bow’s riser with a non-dominant hand, and nocks an arrow onto the string, aligning it with the arrow rest.",
+    "This action is the draw phase, characterized by a smooth, controlled pull of the string back toward the dominant cheek or jaw, while the bow arm extends fully forward, creating a straight line from the bow shoulder to the fingertips.",
+    "This action is the aim and release, where the archer holds their breath, aligns the sight or point of the arrow with the target, and then relaxes the fingers of the draw hand to let the string slip away, transferring energy to the arrow.",
+    "This action is the follow-through, where the bow arm remains extended and steady, the draw hand moves back past the ear, and the body stays still to observe the arrow’s flight, ensuring consistency for the next shot."
+  ],
+  "shoot_gun": [
+    "1. This action is the initial acquisition and aiming phase, where the person firmly grips the gun with both hands (dominant hand on the grip, support hand wrapping underneath), extends their arms forward, aligns the firearm’s sights (front and rear) with the target, and steadies their breathing while maintaining a slight forward lean for balance and control.",
+    "2. This action is the trigger preparation and pressure application, where the person places the pad of their index finger on the trigger, applies smooth, steady pressure while keeping the rest of the hand relaxed, and continues to focus on the sight alignment, ensuring no jerky or sudden movements that would disrupt accuracy.",
+    "3. This action is the firing and recoil management phase, where the trigger breaks, the gun discharges, and the person absorbs the rearward recoil through their arms and shoulders, allowing the muzzle to rise naturally while maintaining a firm grip and keeping their eyes on the target and sights for follow-through.",
+    "4. This action is the follow-through and recovery phase, where the person retains their shooting stance, re-acquires the sight picture on the target, assesses the shot’s impact, and then either prepares to fire again by resetting the trigger or safely lowers the firearm, keeping the muzzle pointed in a safe direction until the action is completed."
+  ],
+  "sit": [
+    "This action is a controlled descent from a standing or elevated position, where the individual bends their knees and hips while shifting their weight backward and downward toward a seat or surface.",
+    "This action is a biomechanical sequence involving the engagement of the quadriceps, hamstrings, and gluteal muscles to eccentrically lower the body, with the spine maintaining a neutral posture until contact is made.",
+    "This action is a spatial transition that reduces the body’s vertical center of mass, moving from an upright stance to a seated configuration, typically with the torso either upright or slightly forward-leaning for balance.",
+    "This action is a social and functional gesture that signals a change in activity—such as resting, working, or engaging in conversation—often accompanied by reaching for a chair, bench, or floor, and adjusting the limbs to stabilize the seated position."
+  ],
+  "situp": [
+    "This action is initiated by a controlled lowering of the torso from a seated or upright position, engaging the hip flexors and lower back to manage the descent with eccentric tension.",
+    "This action is defined by a forceful, curling contraction of the abdominal muscles, pulling the ribcage toward the pelvis to lift the upper body, which isolates the rectus abdominis.",
+    "This action is characterized by a stable, grounded lower body, with feet anchored and knees bent, ensuring that the movement originates from the core rather than swinging momentum from the arms or neck.",
+    "This action is completed by a deliberate, synchronized exhale during the upward phase and inhale during the lowering phase, which enhances intra-abdominal pressure and maximizes muscle activation."
+  ],
+  "smile": [
+    "This action is the **initial trigger phase**, where the facial muscles begin their coordinated response—primarily the zygomatic major muscles lifting the corners of the mouth upward, often accompanied by a slight widening of the eyes and a softening of the brow. This phase is critical because it establishes the intent and emotional authenticity of the smile, distinguishing a genuine, spontaneous expression from a forced or polite one.",
+    "This action is the **peak expression phase**, where the smile reaches its full amplitude—the mouth curves distinctly upward, the cheeks rise, and crow’s feet may appear at the outer edges of the eyes (the orbicularis oculi contraction). This phase is crucial as it conveys the intensity of the emotion, signaling joy, amusement, or warmth, and it is this visual peak that observers use to judge the sincerity and social meaning of the gesture.",
+    "This action is the **sustained hold phase**, where the smile is maintained for a brief, variable duration (typically 0.5 to 2 seconds) without significant muscle tremor or asymmetry. This phase is important because it allows the emotional signal to be transmitted and received, facilitating social bonding, communication, or rapport—without this stability, the smile would appear flickering or insincere, reducing its communicative impact.",
+    "This action is the **release and recovery phase**, where the facial muscles gradually relax, the mouth returns to a neutral or near-neutral position, and any residual tension in the cheeks or eyes dissipates. This phase is vital because it marks the conclusion of the emotional expression, preventing muscle fatigue and allowing for a smooth transition to the next facial movement, while also signaling that the emotional state is either diminishing or being consciously controlled."
+  ],
+  "smoke": [
+    "This action is raising a hand to the mouth while holding a cigarette between the index and middle fingers, bringing the filter end to the lips.",
+    "This action is inhaling deeply through the cigarette, drawing air and smoke into the mouth and lungs, often accompanied by a slight narrowing of the eyes and a brief pause in movement.",
+    "This action is lowering the hand away from the mouth, holding the cigarette at waist or chest level, and exhaling the smoke in a controlled stream, either through the mouth or nose.",
+    "This action is tapping the lit end of the cigarette against the edge of an ashtray to remove accumulated ash, then repeating the cycle of bringing the cigarette back to the lips for another inhalation."
+  ],
+  "somersault": [
+    "This action is the **initiation phase**, where the individual transitions from an upright stance into a tucked or crouched position. The key here is the deliberate lowering of the center of gravity, with knees bending deeply and arms swinging forward or downward to generate initial momentum. This phase is critical because it sets the trajectory and balance for the entire rotation; a poorly executed initiation can cause the somersault to be off-axis or underpowered.",
+    "This action is the **propulsion and takeoff phase**, where the person explosively extends their legs and drives their arms upward or backward to launch off the ground. The focus shifts to generating vertical and rotational force, with the hips and shoulders coordinating to create a forward spin. This phase is crucial for achieving sufficient height and angular velocity, ensuring the body clears the ground and rotates with enough speed to complete the full revolution.",
+    "This action is the **aerial tuck and rotation phase**, where the body becomes compact—knees drawn toward the chest, chin tucked, and arms either hugging the shins or positioned to control spin. The emphasis is on maintaining a tight, spherical shape to maximize rotational speed while minimizing air resistance. This phase is vital because it determines the rate of rotation; a loose tuck slows the spin, risking an incomplete somersault, while a tight tuck ensures a fast, controlled flip.",
+    "This action is the **landing and stabilization phase**, where the individual extends their legs downward, releases the tuck, and absorbs impact through the feet, ankles, and knees. The arms move outward or forward to aid balance, and the core engages to prevent toppling backward or forward. This phase is essential for a safe, controlled finish, as proper shock absorption and postural alignment prevent injury and allow for a clean, upright exit from the movement."
+  ],
+  "stand": [
+    "This action is the **static alignment of the body**, where the individual establishes a vertical axis from head to feet, distributing weight evenly across both legs, with the spine neutral and shoulders relaxed—this movement provides the foundational stability and readiness for any subsequent action.",
+    "This action is the **micro-adjustment of the center of gravity**, involving subtle shifts in the pelvis and ankles to maintain balance against external forces (e.g., wind, uneven ground), which demonstrates the body's proprioceptive precision and adaptability in a seemingly motionless pose.",
+    "This action is the **unconscious muscular engagement** of the core, calves, and glutes, which fires in low-level tension to counteract gravity and prevent sway—this movement is vital for sustained standing, preventing fatigue and enabling prolonged observation or interaction without visible effort.",
+    "This action is the **contextual variation of the upper limbs**, where arms may hang loosely, cross, rest on hips, or hold objects, while the head tilts or turns to scan the environment—this movement adds expressive and communicative layers, turning a static posture into a dynamic social signal."
+  ],
+  "swing_baseball": [
+    "This action is a rotational, full-body movement where the individual pivots on their back foot while transferring weight forward, generating torque through the hips and torso.",
+    "This action is a ballistic, swinging motion of the upper limbs, where the bat is accelerated in a horizontal arc from behind the shoulder to the front of the body, culminating in a rapid follow-through.",
+    "This action is a coordinated sequence of stance, load, and strike, involving a slight crouch, a backward weight shift, and a sudden explosive extension of the arms and legs to meet an imaginary or real target.",
+    "This action is a precision-based strike, where the bat’s sweet spot is aligned with the incoming object’s trajectory, requiring timing, eye-hand coordination, and controlled deceleration after impact."
+  ],
+  "sword": [
+    "This action is initiated by the **preparatory stance and grip**, where the individual establishes a balanced, grounded footing (e.g., a forward or back stance) and secures a correct two-handed or one-handed hold on the hilt, with the blade angled upward or resting at a guard position. This phase is critical because it sets the mechanical foundation for power generation, control, and range of motion, while also telegraphing intent and readiness.",
+    "This action is the **winding or draw phase**, involving a deliberate, controlled backward or upward movement of the sword—often combined with a slight torso rotation or step—to create tension in the muscles and store elastic energy. This phase is essential for building momentum and timing, as it determines the speed, arc, and precision of the subsequent strike, while also allowing the practitioner to adjust distance or feint.",
+    "This action is the **execution or strike phase**, where the sword is driven forward, downward, or diagonally in a fluid, explosive motion, with the blade’s edge or tip contacting the target. This phase is the climax of the action, requiring synchronized coordination of the hips, shoulders, wrists, and legs to deliver maximum force with minimal wasted motion, and it is critical for accuracy, penetration, or defensive deflection depending on the intent.",
+    "This action is the **recovery and follow-through phase**, where the individual decelerates the blade, maintains a stable posture, and either resets to a guard position or transitions into a subsequent movement—such as a slash, thrust, or retreat. This phase is vital for safety (avoiding over-extension or joint strain), maintaining spatial awareness, and ensuring fluidity in combat or kata, as it bridges the current action to the next without losing balance or control."
+  ],
+  "sword_exercise": [
+    "This action is a series of deliberate, controlled movements where the individual shifts weight between the feet while swinging a blade in wide, sweeping arcs, often with a fixed gaze toward the weapon’s tip.",
+    "This action is a physical practice that emphasizes posture and alignment, with the torso remaining upright and the non-dominant hand typically placed on the hip or extended for balance, while the dominant arm rotates from the shoulder and wrist to guide the blade.",
+    "This action is a rhythmic sequence of attack and defense patterns, including forward thrusts, lateral cuts, and overhead strikes, often punctuated by brief pauses or slow, deliberate transitions to maintain precision.",
+    "This action is a dynamic exercise that combines aerobic exertion with fine motor coordination, as the feet execute steps, lunges, and pivots in sync with the sword’s trajectory, requiring constant visual tracking and spatial awareness."
+  ],
+  "talk": [
+    "This action is the initiation of the vocalization process, where the person takes a preparatory breath, expanding their diaphragm and relaxing their jaw and throat muscles to ready the vocal cords for sound production.",
+    "This action is the phonation phase, where air is expelled from the lungs and passes through the vibrating vocal cords, generating the fundamental frequency of the voice, while the mouth begins to form the initial consonant or vowel shape.",
+    "This action is the articulation and modulation phase, where the tongue, lips, and palate move precisely to shape the continuous stream of air into distinct syllables and words, while pitch, volume, and rhythm are adjusted to convey meaning and emotion.",
+    "This action is the closure and transition phase, where the flow of air is gradually reduced, the vocal cords relax, and the articulators return to a neutral position, signaling the end of the spoken utterance and preparing for a pause or the next phrase."
+  ],
+  "throw": [
+    "This action is the **initiation phase**, where the body establishes a stable base and prepares for force generation. The feet are positioned shoulder-width apart or in a staggered stance, with the knees slightly bent to lower the center of gravity. The dominant arm draws back, elbow bent, while the opposite arm extends forward for balance and aiming. The torso rotates away from the target, coiling the hips and shoulders like a spring. This phase is critical because it determines the trajectory, power, and accuracy of the throw—a poor stance or premature arm movement here can compromise the entire action.",
+    "This action is the **wind-up and loading phase**, where potential energy is stored in the muscles and joints. The throwing arm continues its backward motion, reaching full extension behind the body, while the wrist hyperextends to grip the object firmly. Simultaneously, the hips and shoulders rotate further away from the target, increasing the separation between the pelvis and torso. The non-throwing arm now points directly at the target, acting as a visual and kinetic reference. This phase is vital because it builds the elastic tension in the rotator cuff, latissimus dorsi, and oblique muscles—the greater the stretch, the more explosive the subsequent release.",
+    "This action is the **acceleration and transfer phase**, where stored energy is converted into forward motion. The hips initiate the rotation toward the target, followed by the torso, then the shoulder, and finally the arm—creating a kinetic chain that accelerates the object. The elbow leads the hand, snapping forward, while the wrist remains cocked until the last moment. The non-throwing arm pulls sharply inward to counterbalance the rotation. This phase is crucial because it dictates the speed and direction of the object; any break in the sequential transfer (e.g., rotating the shoulder before the hips) results in lost power or misalignment.",
+    "This action is the **release and follow-through phase**, where the object leaves the hand with optimal timing and the body decelerates safely. The wrist flicks forward at the precise instant the arm reaches full extension, imparting spin and final velocity. After release, the throwing arm continues across the body, and the torso rotates fully to face the target, while the back leg steps forward or drags to absorb momentum. This phase is essential for two reasons: it ensures accuracy by releasing at the correct point in the arc, and it prevents injury by allowing the joints to decelerate gradually rather than stopping abruptly. A rushed or incomplete follow-through often leads to wild throws or strain on the shoulder and elbow."
+  ],
+  "turn": [
+    "Step 1: This action is the initial weight shift, where the person moves their center of gravity from a neutral stance onto the balls of their feet, subtly bending the knees and engaging the core to prepare for rotation.",
+    "Step 2: This action is the initiation of the turn, where the person rotates their upper body—specifically the shoulders and head—in the desired direction, while the hips and feet remain relatively stationary to create a torque or \"winding\" effect.",
+    "Step 3: This action is the pivot and follow-through, where the person lifts one foot slightly and pivots on the other foot, swinging the lifted leg and lower body around to align with the upper body, completing the 180-degree (or full 360-degree) rotation with a controlled, smooth motion.",
+    "Step 4: This action is the stabilization and reorientation, where the person plants the moving foot back on the ground, shifts their weight evenly between both feet, straightens the knees, and adjusts their gaze forward to establish a new, balanced stance facing the opposite direction."
+  ],
+  "walk": [
+    "This action is a rhythmic, alternating transfer of weight from one foot to the other, with each foot lifting and landing in a continuous, forward-propelling cycle.",
+    "This action is a coordinated movement of the limbs, where the arms swing in opposition to the legs to maintain balance and momentum.",
+    "This action is a dynamic postural shift, involving a slight forward lean of the torso and a controlled heel-to-toe strike pattern with each step.",
+    "This action is a purposeful locomotive behavior, typically executed at a moderate speed, distinguishable from running by the constant ground contact of at least one foot."
+  ],
+  "wave": [
+    "This action is a vertical, rhythmic raising and lowering of the arm from the shoulder, with the palm facing forward, which creates a clear, attention-grabbing signal across distances.",
+    "This action is a lateral, side-to-side sweep of the hand at the wrist or elbow, often with fingers spread, adding a dynamic, friendly oscillation that conveys enthusiasm or greeting.",
+    "This action is a repeated, alternating flexion and extension of the elbow, causing the forearm to pivot up and down in a rapid, cyclical pattern, which amplifies urgency or excitement.",
+    "This action is a full-arm rotation from the shoulder in a circular or semi-circular arc, sometimes combined with a slight torso twist, which broadens the spatial reach and makes the gesture visible from multiple angles."
+  ]
+}

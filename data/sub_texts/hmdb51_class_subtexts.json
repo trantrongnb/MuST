@@ -1,0 +1,308 @@
+{
+  "brush_hair": [
+    "positioning brush at roots",
+    "pulling brush downward",
+    "lifting brush from ends",
+    "returning brush to scalp"
+  ],
+  "cartwheel": [
+    "planting hands on ground",
+    "kicking legs overhead",
+    "rotating body sideways",
+    "landing feet sequentially"
+  ],
+  "catch": [
+    "extending arms forward",
+    "opening hands",
+    "closing fingers on object",
+    "pulling hands toward body"
+  ],
+  "chew": [
+    "lowering jaw",
+    "shifting jaw laterally",
+    "closing jaw upward",
+    "grinding teeth together"
+  ],
+  "clap": [
+    "moving hands apart",
+    "bringing palms inward",
+    "striking palms together",
+    "pulling hands apart"
+  ],
+  "climb": [
+    "reach arm upward",
+    "grasp handhold",
+    "place foot on hold",
+    "pull body upward"
+  ],
+  "climb_stairs": [
+    "lift foot up",
+    "place foot on step",
+    "straighten leading leg",
+    "raise trailing leg"
+  ],
+  "dive": [
+    "bending knees",
+    "pushing off platform",
+    "extending body forward",
+    "entering water headfirst"
+  ],
+  "draw_sword": [
+    "reach for sword hilt",
+    "grasp sword hilt",
+    "pull blade from scabbard",
+    "raise blade forward"
+  ],
+  "dribble": [
+    "pushing ball downward",
+    "extending arm downward",
+    "receiving rebounding ball",
+    "raising hand upward"
+  ],
+  "drink": [
+    "grasping the cup",
+    "raising cup to mouth",
+    "sipping the liquid",
+    "lowering the cup"
+  ],
+  "eat": [
+    "picking up food",
+    "moving food to mouth",
+    "biting food",
+    "chewing food"
+  ],
+  "fall_floor": [
+    "losing balance",
+    "dropping toward floor",
+    "impacting the floor",
+    "lying on floor"
+  ],
+  "fencing": [
+    "advancing in stance",
+    "extending sword arm",
+    "lunging body forward",
+    "retreating backward"
+  ],
+  "flic_flac": [
+    "jumping backward",
+    "arching back in air",
+    "planting hands on ground",
+    "landing on feet"
+  ],
+  "golf": [
+    "addressing the ball",
+    "raising club backward",
+    "striking the ball",
+    "following through swing"
+  ],
+  "handstand": [
+    "placing hands on ground",
+    "kicking legs upward",
+    "balancing on hands",
+    "lowering legs to ground"
+  ],
+  "hit": [
+    "pulling arm backward",
+    "thrusting arm forward",
+    "striking the target",
+    "recoiling arm backward"
+  ],
+  "hug": [
+    "opening arms outward",
+    "wrapping arms around torso",
+    "holding body close",
+    "releasing arms"
+  ],
+  "jump": [
+    "bending knees downward",
+    "pushing off the ground",
+    "rising into the air",
+    "landing on the feet"
+  ],
+  "kick": [
+    "lift knee upward",
+    "extend lower leg forward",
+    "retract bent leg",
+    "lower foot to ground"
+  ],
+  "kick_ball": [
+    "approach ball",
+    "swing leg forward",
+    "strike ball",
+    "follow through"
+  ],
+  "kiss": [
+    "leaning head forward",
+    "puckering lips",
+    "pressing lips together",
+    "pulling head away"
+  ],
+  "laugh": [
+    "opening mouth wide",
+    "tilting head backward",
+    "shaking shoulders repeatedly",
+    "relaxing facial muscles"
+  ],
+  "pick": [
+    "reaching hand toward object",
+    "closing fingers around object",
+    "lifting object upward",
+    "retracting hand with object"
+  ],
+  "pour": [
+    "lifting the container",
+    "tilting container over vessel",
+    "releasing liquid stream",
+    "returning container upright"
+  ],
+  "pullup": [
+    "hanging from overhead bar",
+    "pulling body upward",
+    "raising chin over bar",
+    "lowering body downward"
+  ],
+  "punch": [
+    "drawing arm backward",
+    "thrusting fist forward",
+    "extending arm fully",
+    "retracting fist back"
+  ],
+  "push": [
+    "raising arms forward",
+    "placing hands on object",
+    "extending arms forward",
+    "retracting arms back"
+  ],
+  "pushup": [
+    "lowering body downward",
+    "pausing at bottom",
+    "pushing body upward",
+    "straightening arms fully"
+  ],
+  "ride_bike": [
+    "mounting the bicycle",
+    "pushing pedal downward",
+    "pedaling in circles",
+    "steering the handlebars"
+  ],
+  "ride_horse": [
+    "mounting the horse",
+    "gripping the reins",
+    "bouncing in saddle",
+    "dismounting the horse"
+  ],
+  "run": [
+    "pushing off back foot",
+    "driving knee forward",
+    "extending leg midair",
+    "landing on front foot"
+  ],
+  "shake_hands": [
+    "extend arm forward",
+    "grasp hands together",
+    "pump hands up down",
+    "release and withdraw hand"
+  ],
+  "shoot_ball": [
+    "bending knees",
+    "lifting ball upward",
+    "extending arms overhead",
+    "flicking wrist to release"
+  ],
+  "shoot_bow": [
+    "nock arrow",
+    "raise bow",
+    "draw bowstring",
+    "release bowstring"
+  ],
+  "shoot_gun": [
+    "raising gun to aim",
+    "pulling the trigger",
+    "recoiling arm upward",
+    "lowering the gun"
+  ],
+  "sit": [
+    "bending knees",
+    "lowering hips downward",
+    "touching seat surface",
+    "stabilizing seated posture"
+  ],
+  "situp": [
+    "lifting head and shoulders",
+    "pulling torso toward knees",
+    "pausing at peak position",
+    "lowering torso to ground"
+  ],
+  "smile": [
+    "raising mouth corners",
+    "stretching lips sideways",
+    "elevating cheeks upward",
+    "narrowing eyes slightly"
+  ],
+  "smoke": [
+    "raising cigarette to mouth",
+    "inhaling from cigarette",
+    "lowering cigarette from mouth",
+    "exhaling smoke"
+  ],
+  "somersault": [
+    "bending knees to squat",
+    "placing hands on ground",
+    "rolling forward over shoulders",
+    "standing back upright"
+  ],
+  "stand": [
+    "leaning torso forward",
+    "lifting hips upward",
+    "straightening legs",
+    "standing fully upright"
+  ],
+  "swing_baseball": [
+    "grip bat with hands",
+    "rotate hips and torso",
+    "swing bat forward",
+    "follow through with arms"
+  ],
+  "sword": [
+    "raising sword overhead",
+    "swinging sword forward",
+    "extending arm forward",
+    "lowering sword to side"
+  ],
+  "sword_exercise": [
+    "raising sword overhead",
+    "slashing sword downward",
+    "thrusting sword forward",
+    "lowering sword to side"
+  ],
+  "talk": [
+    "open mouth",
+    "move lips and jaw",
+    "gesture with hand",
+    "close mouth"
+  ],
+  "throw": [
+    "draw arm backward",
+    "swing arm forward",
+    "release object",
+    "follow through with arm"
+  ],
+  "turn": [
+    "pivot lead foot",
+    "rotate hips and torso",
+    "swing trailing leg",
+    "plant trailing foot"
+  ],
+  "walk": [
+    "swinging leg forward",
+    "planting foot on ground",
+    "pushing off back foot",
+    "swinging opposite leg forward"
+  ],
+  "wave": [
+    "raise arm upward",
+    "move hand sideways",
+    "move hand opposite direction",
+    "lower arm downward"
+  ]
+}

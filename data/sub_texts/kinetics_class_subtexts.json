@@ -1,0 +1,602 @@
+{
+  "air drumming": [
+    "raise arms alternately",
+    "strike imaginary drum",
+    "move hands downward",
+    "shake wrists rapidly"
+  ],
+  "arm wrestling": [
+    "grip opponent's hand",
+    "lock elbows on table",
+    "push arm sideways",
+    "resist opponent's force"
+  ],
+  "baking cookies": [
+    "roll cookie dough",
+    "cut cookie shapes",
+    "place on tray",
+    "put tray in oven"
+  ],
+  "beatboxing": [
+    "mouth percussion rhythms",
+    "lip vibrations bursts",
+    "cheek puff oscillations",
+    "tongue clicks snaps"
+  ],
+  "biking through snow": [
+    "pedaling bicycle forward",
+    "balancing on two wheels",
+    "steering through snow",
+    "braking to slow down"
+  ],
+  "blasting sand": [
+    "raise sand blaster",
+    "aim at surface",
+    "trigger blasting motion",
+    "sweep across area"
+  ],
+  "blowing glass": [
+    "gathering molten glass",
+    "blowing into pipe",
+    "shaping with tools",
+    "reheating in furnace"
+  ],
+  "blowing out candles": [
+    "lean toward cake",
+    "inhale deeply",
+    "pucker lips",
+    "exhale forcefully"
+  ],
+  "bowling": [
+    "approach and swing arm",
+    "release ball forward",
+    "follow through motion",
+    "watch ball roll"
+  ],
+  "breakdancing": [
+    "spin on back",
+    "windmill torso rotation",
+    "flare leg swing",
+    "headspin freeze pose"
+  ],
+  "bungee jumping": [
+    "leaning forward off platform",
+    "falling headfirst downward",
+    "bouncing upward on cord",
+    "swinging in pendulum arcs"
+  ],
+  "busking": [
+    "strumming guitar strings",
+    "opening instrument case",
+    "placing hat on ground",
+    "bowing to audience"
+  ],
+  "catching or throwing baseball": [
+    "wind up arm",
+    "release ball forward",
+    "extend arm catch",
+    "secure ball with glove"
+  ],
+  "cheerleading": [
+    "jump with legs split",
+    "raise arms overhead",
+    "perform cartwheel motion",
+    "land with bent knees"
+  ],
+  "cleaning floor": [
+    "wiping floor surface",
+    "scrubbing stained spot",
+    "rinsing mop head",
+    "wringing mop handle"
+  ],
+  "contact juggling": [
+    "roll ball across palm",
+    "balance ball on fingertips",
+    "rotate ball around hand",
+    "toss and catch ball"
+  ],
+  "cooking chicken": [
+    "chopping chicken pieces",
+    "seasoning chicken meat",
+    "placing chicken in pan",
+    "flipping chicken pieces"
+  ],
+  "country line dancing": [
+    "touch right",
+    "touch left",
+    "grapevine right",
+    "grapevine left"
+  ],
+  "crossing river": [
+    "wading into water",
+    "lifting legs high",
+    "pushing through current",
+    "step onto bank"
+  ],
+  "curling hair": [
+    "grasp hair section",
+    "wrap hair around iron",
+    "clamp iron shut",
+    "release curled hair"
+  ],
+  "cutting watermelon": [
+    "grip knife handle",
+    "press blade downward",
+    "slice through rind",
+    "separate cut pieces"
+  ],
+  "dancing ballet": [
+    "plie bend knees",
+    "extend leg arabesque",
+    "pirouette turn spin",
+    "jump grand jete"
+  ],
+  "dancing charleston": [
+    "side kicks",
+    "swing arms crossed",
+    "kick heels alternately",
+    "twist torso swiftly"
+  ],
+  "dancing macarena": [
+    "raise right arm",
+    "extend left arm",
+    "rotate hips",
+    "clap hands"
+  ],
+  "deadlifting": [
+    "grip the barbell",
+    "lift the barbell",
+    "lock the hips",
+    "lower the barbell"
+  ],
+  "diving cliff": [
+    "running toward edge",
+    "jumping off cliff",
+    "tucking body forward",
+    "entering water"
+  ],
+  "doing nails": [
+    "trimming nail edges",
+    "filing nail surface",
+    "applying nail polish",
+    "curing polish under light"
+  ],
+  "dribbling basketball": [
+    "bounce ball with palm",
+    "control ball with fingertips",
+    "push ball downward",
+    "catch ball on rebound"
+  ],
+  "driving tractor": [
+    "clutch pedal press",
+    "gear lever shift",
+    "steering wheel turn",
+    "accelerator pedal push"
+  ],
+  "drop kicking": [
+    "run forward",
+    "lift knee",
+    "extend leg",
+    "follow through"
+  ],
+  "dunking basketball": [
+    "jump toward basket",
+    "extend arm downward",
+    "release ball into hoop",
+    "land on feet"
+  ],
+  "dying hair": [
+    "apply hair dye",
+    "massage dye into hair",
+    "rinse hair with water",
+    "dry hair with towel"
+  ],
+  "eating burger": [
+    "pick up burger",
+    "open mouth",
+    "bring to mouth",
+    "bite and chew"
+  ],
+  "feeding birds": [
+    "scattering seeds downward",
+    "sprinkling crumbs on ground",
+    "placing food in feeder",
+    "withdrawing hand quickly"
+  ],
+  "feeding fish": [
+    "pinching fish food",
+    "scattering food surface",
+    "watching fish eating",
+    "refilling food container"
+  ],
+  "filling eyebrows": [
+    "grasp eyebrow pencil",
+    "stroke brow hairs",
+    "dab pigment onto brow",
+    "blend brow strokes"
+  ],
+  "flying kite": [
+    "running with kite",
+    "releasing kite string",
+    "pulling string downward",
+    "watching kite ascend"
+  ],
+  "folding paper": [
+    "grasp paper sheet",
+    "fold paper in half",
+    "crease fold firmly",
+    "rotate and fold again"
+  ],
+  "giving or receiving award": [
+    "handing over object",
+    "shaking hands",
+    "receiving object",
+    "displaying object"
+  ],
+  "high kick": [
+    "raise leg upward",
+    "extend leg fully",
+    "hold leg at peak",
+    "lower leg down"
+  ],
+  "hopscotch": [
+    "hop forward on one",
+    "land and balance briefly",
+    "hop again to next",
+    "and turn around"
+  ],
+  "hula hooping": [
+    "swing hoop around waist",
+    "rotate hips continuously",
+    "spin hoop with torso",
+    "catch hoop with hands"
+  ],
+  "hurling (sport)": [
+    "grip disc with fingers",
+    "rotate torso backward",
+    "release disc forward",
+    "follow through with arm"
+  ],
+  "ice skating": [
+    "gliding forward on blades",
+    "stopping with blade edge",
+    "turning while skating",
+    "performing a spin jump"
+  ],
+  "javelin throw": [
+    "grip the javelin",
+    "run and accelerate",
+    "pull arm backward",
+    "release javelin forward"
+  ],
+  "jetskiing": [
+    "mounting the jetski",
+    "accelerating throttle forward",
+    "steering handlebars turning",
+    "leaning into waves"
+  ],
+  "jumping into pool": [
+    "run toward edge",
+    "propel body upward",
+    "tuck knees forward",
+    "enter water headfirst"
+  ],
+  "laughing": [
+    "open mouth widely",
+    "contract abdominal muscles",
+    "shake torso rhythmically",
+    "release short exhaled bursts"
+  ],
+  "making snowman": [
+    "pack snow into ball",
+    "roll ball on ground",
+    "stack ball on top",
+    "shape snowman body"
+  ],
+  "massaging back": [
+    "press palms on back",
+    "knead upper back muscles",
+    "stroke down spine",
+    "tap along shoulder blades"
+  ],
+  "mowing lawn": [
+    "push mower forward",
+    "pull mower backward",
+    "turn mower around",
+    "guide mower along row"
+  ],
+  "opening bottle": [
+    "grasp bottle cap",
+    "twist cap counterclockwise",
+    "lift cap off",
+    "release grip"
+  ],
+  "paragliding": [
+    "launching off slope",
+    "controlling steering lines",
+    "shifting body weight",
+    "landing on ground"
+  ],
+  "playing accordion": [
+    "pressing accordion keys",
+    "pulling bellows outward",
+    "pushing bellows inward",
+    "moving fingers on buttons"
+  ],
+  "playing badminton": [
+    "swing racket downward",
+    "hit shuttlecock",
+    "lunge forward",
+    "jump smash"
+  ],
+  "playing basketball": [
+    "dribbling the ball",
+    "jumping to shoot",
+    "passing the ball",
+    "blocking opponent shot"
+  ],
+  "playing didgeridoo": [
+    "blowing into didgeridoo",
+    "moving fingers on holes",
+    "vibrating lips rapidly",
+    "tilting instrument downward"
+  ],
+  "playing drums": [
+    "raising sticks upward",
+    "striking drum surface",
+    "alternating hand hits",
+    "pressing drum pedal"
+  ],
+  "playing ice hockey": [
+    "shooting the puck",
+    "skating with stick",
+    "checking opponent",
+    "puck handling"
+  ],
+  "playing keyboard": [
+    "press keys rhythmically",
+    "move fingers across keys",
+    "strike chords simultaneously",
+    "tap individual keys"
+  ],
+  "playing monopoly": [
+    "rolling dice",
+    "moving token",
+    "drawing card",
+    "counting money"
+  ],
+  "playing trombone": [
+    "positioning mouth on mouthpiece",
+    "pressing slide positions",
+    "vibrating lips into mouthpiece",
+    "moving slide to change"
+  ],
+  "playing trumpet": [
+    "embouchure formation",
+    "finger valve pressing",
+    "mouth blowing air",
+    "bell raising motion"
+  ],
+  "playing ukulele": [
+    "strum ukulele strings",
+    "finger pick strings",
+    "hold ukulele neck",
+    "press fretboard chords"
+  ],
+  "playing xylophone": [
+    "strike keys with mallets",
+    "slide mallets across bars",
+    "tap bars alternately",
+    "shake mallets over instrument"
+  ],
+  "presenting weather forecast": [
+    "pointing at map",
+    "gesturing to symbols",
+    "turning to camera",
+    "raising hand"
+  ],
+  "punching bag": [
+    "swing arm forward",
+    "fist contacts bag",
+    "retract arm back",
+    "repeat punching motion"
+  ],
+  "pushing car": [
+    "hands push car rear",
+    "arms extend forward",
+    "legs drive backward",
+    "body leans into car"
+  ],
+  "pushing cart": [
+    "push cart forward",
+    "steer cart left",
+    "stop cart motion",
+    "pull cart backward"
+  ],
+  "reading book": [
+    "turning pages",
+    "moving eyes across text",
+    "lifting book closer",
+    "lowering book to lap"
+  ],
+  "riding elephant": [
+    "mounting elephant",
+    "sitting on elephant",
+    "gripping elephant trunk",
+    "dismounting elephant"
+  ],
+  "riding unicycle": [
+    "mount unicycle",
+    "balance pedaling",
+    "steer handlebar",
+    "dismount unicycle"
+  ],
+  "scuba diving": [
+    "entering the water",
+    "kicking fins downward",
+    "regulating breathing underwater",
+    "ascending to surface"
+  ],
+  "shaking head": [
+    "rotate head left",
+    "rotate head right",
+    "tilt head down",
+    "tilt head up"
+  ],
+  "sharpening pencil": [
+    "pick up pencil",
+    "insert into sharpener",
+    "rotate pencil handle",
+    "remove sharpened pencil"
+  ],
+  "shaving head": [
+    "raise razor to scalp",
+    "drag razor across head",
+    "scrape skin with blade",
+    "rinse head with water"
+  ],
+  "shearing sheep": [
+    "grab sheep wool",
+    "position shears blades",
+    "squeeze shears handle",
+    "release cut wool"
+  ],
+  "shot put": [
+    "grip the shot",
+    "crouch and tuck",
+    "extend arm explosively",
+    "release and follow through"
+  ],
+  "shuffling cards": [
+    "grasp deck edges",
+    "split deck halves",
+    "interleave cards together",
+    "release and settle deck"
+  ],
+  "side kick": [
+    "raise knee to chest",
+    "extend leg outward",
+    "rotate hips forward",
+    "retract leg backward"
+  ],
+  "skateboarding": [
+    "push off ground",
+    "roll forward",
+    "turn body",
+    "stop board"
+  ],
+  "ski jumping": [
+    "crouching on the ramp",
+    "pushing off the jump",
+    "leaning forward in air",
+    "landing with bent knees"
+  ],
+  "slacklining": [
+    "onto line",
+    "balance with arms",
+    "shift weight forward",
+    "dismount to ground"
+  ],
+  "sled dog racing": [
+    "harness dogs to sled",
+    "command dogs to start",
+    "steer sled through turns",
+    "brake sled to stop"
+  ],
+  "snowboarding": [
+    "carving turns downhill",
+    "performing aerial spins",
+    "sliding on rail",
+    "stopping with edge"
+  ],
+  "somersaulting": [
+    "crouch down",
+    "push off ground",
+    "rotate forward",
+    "land on feet"
+  ],
+  "squat": [
+    "bend knees downward",
+    "lower hips toward heels",
+    "pause at lowest point",
+    "extend legs upward"
+  ],
+  "stretching arm": [
+    "raise arm upward",
+    "extend arm fully",
+    "hold arm stretched",
+    "lower arm down"
+  ],
+  "surfing crowd": [
+    "paddle out through waves",
+    "pop up to stance",
+    "ride wave carving turns",
+    "kick out over lip"
+  ],
+  "tap dancing": [
+    "stomp heel on floor",
+    "brush toe forward",
+    "shuffle ball change",
+    "stamp foot flat"
+  ],
+  "throwing axe": [
+    "grip axe handle",
+    "raise axe overhead",
+    "swing axe forward",
+    "release axe throw"
+  ],
+  "trapezing": [
+    "lean body backward",
+    "shift weight to heels",
+    "extend arms outward",
+    "maintain horizontal torso"
+  ],
+  "trimming or shaving beard": [
+    "grasp trimmer handle",
+    "move trimmer to beard",
+    "run trimmer along jaw",
+    "lift trimmer away"
+  ],
+  "unboxing": [
+    "open box flaps",
+    "lift item out",
+    "remove protective wrap",
+    "place item aside"
+  ],
+  "using computer": [
+    "clicking mouse buttons",
+    "typing on keyboard",
+    "moving computer mouse",
+    "pressing keyboard keys"
+  ],
+  "washing dishes": [
+    "pick up dish",
+    "scrub dish surface",
+    "rinse dish under water",
+    "place dish to dry"
+  ],
+  "washing hands": [
+    "rub palms together",
+    "interlace fingers scrub",
+    "rotate wrists circularly",
+    "rinse hands under water"
+  ],
+  "water skiing": [
+    "lean backward",
+    "bend knees",
+    "pull arms",
+    "shift weight"
+  ],
+  "waxing legs": [
+    "apply wax strip",
+    "press strip firmly",
+    "pull strip quickly",
+    "smooth skin after"
+  ],
+  "weaving basket": [
+    "interlocking warp strands",
+    "weaving weft over under",
+    "pressing woven rows down",
+    "tucking loose strand ends"
+  ]
+}

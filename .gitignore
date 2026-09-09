@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Runs and checkpoints
+work/
+*.pt
+*.pth
+*.ckpt
+fig_span_prior*.png
+
+# Pretrained weights: ~600 MB, fetched with scripts/download_clip.py
+pretrained/*/
+
+# Datasets: extracted frames live here by default, never committed
+data/datasets/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
